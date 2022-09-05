@@ -1,0 +1,3162 @@
+game_id,game_name,game_category_code,game_type_code
+1,Fast Hands,C,FastHands
+2,5th Avenue,C,VideoSlot9
+3,Treasure Island,S,TreasureIsland
+4,Fantasy Forest,S,Slot
+5,Mega Safe,S,Safe
+6,Genie,S,Genie
+7,Roulette,S,FrenchRoulette
+8,Pyramid,S,Slot
+9,Slot Fantasy,S,Slot
+10,Slot 777,S,Genie
+11,Crazy Ball,S,Bowling
+12,Golden Island,S,GoldenIsland
+13,Lucky Diamonds,S,Genie
+14,Ready Set Go,C,RoyalSlot
+15,Zodiac,S,FrenchRoulette
+16,Goal Kick,S,Football
+17,Scratch N Roll,S,Craps
+18,Bingo,S,Bingo
+19,Super 7,S,Slot
+20,Lucky 21,S,ScratchBlackjack
+21,Poker King,S,Poker
+22,Dragon's Gold,C,VideoSlot1_A
+23,Bingo Bonanza,C,BingoBonanza
+24,Summer Fun,S,Slot
+25,gone fishin`,S,GoldenIsland
+26,Christmas,S,GoldenIsland
+27,Super Hippodrome,C,HorseRacing
+28,Darts,S,Darts
+29,Bubble Bingo,C,BubbleBingo
+30,Lucky Eggs,S,GoldenIsland
+31,Royal Poker,S,RoyalPoker
+32,Monte Carlo,C,VideoSlot1_A
+33,Club Pearl,S,GoldenIsland
+34,100m Champion,C,HorseRacing
+35,Splash Cash,S,Hit1
+36,Super Chance,S,WheelOfFortune
+37,Tropical Fruit,C,VideoSlot1_A
+38,HiLo54,S,HiLo
+39,Royal Slots,C,RoyalSlot
+40,Champagne,S,NScratch
+41,3 wow,S,WOW
+42,Dancing Domino,C,Domino
+43,Mister Joker,S,GoldenIsland
+44,Pirates Paradise,C,VideoSlot1_A
+45,Jungle Joy,S,NScratch
+46,X&O,C,XOX
+47,Castle Slot,C,VideoSlot1_A
+48,The Fairy Tale,S,Genie
+49,Disco Keno,C,DiscoKeno
+50,Cash Farm,S,Genie
+51,Sakura garden,C,VideoSlot1_A
+52,Sky of Love,C,VideoSlot1_A
+53,The Lost Maya,S,GoldenIsland
+54,Knights Battle,C,KnightsBattle
+55,Namaste,C,RoyalSlot
+56,Love Birds,S,FrenchRoulette
+57,Ocean Pearls,C,RoyalSlot
+58,7th Heaven,C,7Heaven
+59,Esmeralda,C,Domino
+60,Grand Crown,C,VideoSlot5
+61,Fair Play,C,VideoSlot5
+62,Oasis Dreams,C,VideoSlot1_B
+63,MasterMix,C,MasterMix
+64,Spy Comics,S,NScratch
+65,Conga Beat,C,VideoSlot20B
+66,Macau Nights,C,VideoSlot1_B
+67,Monaco Glamour,C,VideoSlot20B
+68,World Champions,S,WorldChampions
+69,Tiger Mahjong,C,TigerMahjong
+70,Fantasia,C,VideoSlot9
+71,Chic Boutique,C,VideoSlot9
+72,Atlantis,C,VideoSlot9
+73,Circus Mania,C,VideoSlot1_A
+74,Egyptian Magic,C,VideoSlot9
+75,Cafe Paris,C,VideoSlot9
+76,Bon Appetit,C,VideoSlot9
+77,Music Room,C,VideoSlot1_A
+78,Ice Land,C,VideoSlot9
+79,Super 3WOW!,C,WOW
+80,Roulette Lounge,C,Roulette
+81,Candy Tale,S,XOX
+83,Blackjack - Classic,C,Blackjack
+84,Crazy Cat,S,TreasureIsland
+85,Outer Space,C,RoyalSlot
+86,Triple Carnival,C,VideoSlot1_A
+87,Memory Madness,C,MemoryMadness
+89,Holiday Hotel,C,VideoSlot20B
+90,Golden Fortune,C,GoldenFortune
+91,Road Racing,C,RoadRacing
+92,Sea And Sun,C,VideoSlot8
+93,Pub House,C,VideoSlot1_A
+94,Dino,C,VideoSlot5
+95,Auto Show,C,VideoSlot20B
+96,Happy Birthday,S,WorldChampions
+97,Hi Lo Fever,C,HiLoFever
+98,Jacks or Better,C,JacksOrBetter
+99,Neighbours,S,Neighbours
+100,The 60's,C,The60s
+101,Legend of Terra,C,VideoSlot20B
+110,Espresso,C,The60s
+111,Lucky Charms,C,LuckyCharms
+112,Black Jack Solo,C,Blackjack
+113,MONOPOLY Riches,C,MonopolyRiches
+114,The Wild West,S,FrenchRoulette
+115,Adventure Jack,C,VideoSlot20B
+116,Royal Wedding,C,RoyalSlot
+117,Roulette Royal,C,Roulette
+118,3 Card Solitaire,C,Solitaire
+119,Dress Up Diva,C,PrettyWoman
+120,Super Bugs,C,SuperBugs
+121,The Big Apple,C,VideoSlot1_B
+122,Keep Smiling,C,LuckyCharms
+123,Shoot n' Score,C,ShootNScore
+124,Flowers of Spring,C,Neighbours
+125,Heaven or Hell?,C,HeavenOrHell
+126,Spiderman,C,
+127,The Hulk,C,
+128,Fantastic Four,C,
+129,King Kong,C,
+130,Cubis,C,
+131,Bejeweled,C,
+132,Spider-Man Hero,C,SpiderMan
+133,Sudoku Panda,C,Sudoku
+134,Horoscope,C,Horoscope
+135,Joker Poker,C,JacksOrBetter
+136,Monte Carlo,C,VideoSlot1_A
+138,Alfredo,C,RoyalSlot
+139,Forces of Terra,C,ForcesOfTerra
+141,7th Heaven,C,7Heaven
+142,Crazy Ball,C,CrazyBall
+143,Golden Island,C,GoldenIslandTreasure
+144,ELVIS Forever,C,RoadRacing
+145,Black Jack Solo,C,Blackjack
+147,Christmas Joy,C,ChristmasJoy
+148,3WOW!,C,WOW
+149,Postcards,C,Postcards
+150,GO 777,C,Go777
+151,Forever After,C,VideoSlot8
+152,Snakes & Ladders,C,SnakesAndLadders
+153,B&B,C,BoldAndBeautiful
+154,Sampo,C,Sampo
+155,KENO,C,Keno
+156,Jacks or Better,C,JacksOrBetter
+157,S.M.I.L.E.,C,VideoSlot9
+158,7 BOOM,C,7Boom
+160,ICE,C,ICE
+161,World Toto,C,WorldTOTO
+162,Deuces Wild,C,JacksOrBetter
+163,MONOPOLY x 3,C,RoyalSlot
+164,Numero Uno,C,NumeroUno
+165,Roulette Lounge,C,Roulette
+166,Euroball,C,RoyalSlot
+167,Roulette Pro,C,Roulette
+169,Winners,C,Winners
+170,Fruity Friends,S,VideoSlotMath_A
+171,Loteria Mexicana,C,LoteriaMexicana
+172,Meet Max,S,ChristmasJoy
+173,3 Card Poker,C,
+174,Mini Baccarat,C,
+175,Spin the Gold,S,SpinTheGold
+176,Golden Fortune,C,GoldenFortune
+177,Roll the Dice!,C,RollTheDice
+179,Power Cash,S,RoyalSlot
+180,Rainbow charms,S,VideoSlotMath_A
+181,FUNtastic Pets,S,VideoSlotMath_A
+183,Vegas Lights,S,VideoSlotMath_A
+188,Mighty Sphinx,S,VideoSlotMath_B
+189,VIP Black,S,VIPBlack
+190,Captain America - AS,C,
+191,Wolverine - AS,C,
+192,Superman,C,
+193,Noughty Crosses,C,
+194,B&B Slot,S,VideoSlotMath_A
+195,Monte Carlo Dice,C,VideoSlot1_A
+196,European Roulette,C,Roulette
+197,Magic Dice,C,VideoSlot5
+198,Royal Dice,C,RoyalSlot
+199,Moolah Monsters,S,MoolahMonsters
+200,Fruity Friends,S,VideoSlotMath_A
+201,VIP Black,S,VIPBlack
+202,Monaco Glamour II,S,VideoSlotMath_B
+203,Casino Riches,C,CasinoRiches
+205,Starburst,S,Non Branded
+206,Crime Scene,S,
+207,Astrodice,C,VideoSlotMath_A
+208,Keno Deluxe,C,Keno
+209,Mighty Sphinx,S,VideoSlotMath_B
+210,Elements,S,
+211,Jack and the Beanstalk,S,Non Branded
+212,Gonzo's Quest,S,Non Branded
+213,Jack Hammer,S,Non Branded
+214,Eggomatic,S,
+215,Reel Rush,S,Non Branded
+216,Robin Hood,S,Non Branded
+217,Space Wars,S,
+218,Mythic Maiden,S,Non Branded
+219,Victorious,S,Non Branded
+220,Magic Portals,S,Non Branded
+221,Jack Hammer 2,S,
+222,Disco Spins,S,
+223,Flowers,S,Non Branded
+224,Magic Spinner,C,MagicSpinner
+225,Lucky Machines,S,LuckyMachines
+226,Ghost Pirates,S,
+227,Lucky Machines,S,LuckyMachines
+228,Lollipop,C,7Heaven
+229,Tales Of Oz,C,VideoSlotMath_A
+230,Starlight Dazzle,C,StarlightDazzle
+231,Fruit Shop,S,Non Branded
+232,Lucky Angler,S,Non Branded
+233,South Park,S,
+234,Twin Spin,S,Non Branded
+235,Secret of the Stones,S,Non Branded
+236,Thief,S,
+237,Alien Robots,S,
+238,Demolition Squad,S,
+239,Zombies,S,
+240,Boom Brothers,S,
+241,Fruit Case,S,
+242,Wild Rockets,S,
+243,Batman,C,
+244,Wonder women,C,
+245,Green Lantern,C,
+246,Flash Velocity,C,
+247,Millionaire Club 3,C,
+248,Big Bang,S,
+249,Cashword,S,Cashword
+250,Roll the Dice,S,RollTheDice
+251,Subtopia,S,
+252,Fisticuffs,S,
+253,Frankenstein,S,
+254,Creature from the Black Lagoon,S,Branded
+255,Wonky Wabbits,S,
+256,Beach,S,
+257,Evolution,S,
+258,Dragon Island,S,
+259,Wild Time Doubler,S,WildTime
+260,Bingo Doubler,C,BingoDoubler
+261,Blazing red 7's,S,WildTime
+262,Instant Riches,S,WildTime
+263,Best Of 7's,C,7Boom
+264,Diamond Payout,S,WildTime
+265,Instant Keno,C,Keno
+266,Pot O Gold,C,LuckyCharms
+267,Fiery 1's,C,NumeroUno
+268,Super Money Match,S,SuperMoneyMatch
+269,Casino Fortune,C,CasinoRiches
+270,10X The Cash,S,SuperMoneyMatch
+271,Horoscope,C,Horoscope
+272,VIP Black,S,VIPBlack
+273,Mega Bucks,C,RoyalSlot
+274,Triple 7s,C,7Heaven
+275,Pure Gold,C,GoldenFortune
+276,Alfredo,C,RoyalSlot
+277,Wild Water,S,Non Branded
+278,Wild Win Doubler,S,WildTime
+279,Lights,S,Non Branded
+280,Diamond Duet,S,WildTime
+281,3 Rocks,S,LuckyMachines
+282,Keno Blast,C,Keno
+283,The Wish Master,S,
+284,Glamour 7s,C,Glamour7
+285,Pair A Dice,S,Winners
+286,Super PE DE MEIA,C,PeDeMeia
+287,Lost Island,S,
+288,Piggy Riches,S,Non Branded
+289,Attraction,S,
+290,Reel Bandits,C,VideoSlotMath_A
+291,Roulette,C,
+292,Cash Rumble x10,C,SuperMoneyMatch
+293,Blood Suckers,S,Non Branded
+294,Pirate's Hoard,C,WildTime
+295,Mega Fortune,S,Non Branded
+296,Dragon 8s,S,
+297,Medusa,S,
+298,Cleo,S,
+299,Wild Huskies,S,
+300,Chili Gold,S,
+301,Bars & Bells,S,
+302,Cash Spin,S,
+303,Wizard of All,C,WildTime
+304,Go Bananas,S,
+305,Millionaire Club 3,C,
+306,King Kong,S,
+307,Batman,S,
+308,Cubis,S,
+309,Bejeweled,S,
+310,Diamond Tower,C,
+311,Serengeti Diamonds,C,
+312,Unwrap the Cash,C,WildTime
+314,Dr love,S,
+315,HotHotVolcano,S,
+316,Amazon Wild,S,
+317,Gulliver Travels,S,
+318,Aladdin's Legacy,S,
+319,Captain Nemo I,S,
+320,Cold Hard Cash,C,ICE
+321,Cosmic Fortune,S,
+322,Wonder Woman,S,
+323,Druidess Gold,S,
+324,Superman - LSOK,S,
+325,Moon Temple,S,
+326,Cupid and Psyche,S,
+327,Quick Hit PRO,S,
+328,Big Vegas,S,
+329,Big Bad Wolf,S,
+330,Treasure Island,S,
+331,Where's The Gold,S,
+332,Wild Panda,S,
+333,Pompeii,S,
+334,Let's Go Fish'n,S,
+335,Choy Sun Doa,S,
+336,Christmas Cheer,C,WildTime
+337,Jackpot 6000,S,
+338,Frog N flies,S,
+339,Dogs Trust Scratch,C,SuperMoneyMatch
+340,3 Wishes Keno,C,Keno
+341,Grande Sorte,C,WildTime
+342,Tornado: Farm Escape,S,
+343,Wizard of All,C,WildTime
+344,Treasure Bay,C,WildTime
+345,Secrets of El Dorado,C,WildTime
+346,Triple Money Match,C,SuperMoneyMatch
+347,Fantasy Realm,S,
+348,Silent Screen,S,
+349,Sushi Express,S,
+350,Rags To Riches,S,
+351,So hot,S,
+352,Pirate Plunder,S,
+353,$100 Million Explosion,C,WildTime
+354,Keno Multiplier,C,Keno
+355,Hockey Legends,C,SuperMoneyMatch
+356,Steam Tower,S,Non Branded
+357,Lucky Moments,C,XOX
+358,Cosmic Expander,C,WildTime
+359,Aqua Cash,C,VideoSlotMath_B
+360,Wings of Cash,C,WildTime
+361,Fruity Friends,C,VideoSlotMath_A
+362,Spiñata Grande,S,Non Branded
+364,Money in the Mitten,C,WildTime
+365,Mayan Treasures,S,
+366,Havana Cubana,S,
+367,Cash Wizard,S,
+368,Chimney Stacks,S,
+369,Hot Shot Blazing 7s,S,
+370,Vegas Hits,S,
+371,Graveyard Party,C,VideoSlotMath_A
+372,Trevo da Sorte,C,WildTime
+373,Double the Devil,S,
+374,Geckos Gone Wild,S,
+375,Monkey in the Bank,S,
+376,White Buffalo,S,
+377,Bingo Bonanza,C,BingoBonanza
+378,Jungle Hop!,C,WildTime
+379,Dracula ,S,
+380,Pe De Meia,C,PeDeMeia
+381,Mini Pe De Meia,C,PeDeMeia
+382,Recompensa,C,WildTime
+383,Stickers,S,Non Branded
+384,Instant Football Payout,C,SuperMoneyMatch
+385,Lucky Kitten,C,SuperMoneyMatch
+386,Amazon Adventures,C,WildTime
+387,Merlin's Millions,S,
+388,Rainbow Charms,C,VideoSlotMath_A
+389,Cosmic Expander,C,WildTime
+391,Cerne Perly,C,WildTime
+392,eCash,C,WildTime
+393,eRentier,C,WildTime
+394,Diamanty,C,WildTime
+395,Stistko,C,SuperMoneyMatch
+396,Neon Staxx,S,Non Branded
+397,Foxin wins,S,
+398,Sparks,S,
+399,Medusa 2,S,
+401,Pre Live,S,Sport
+402,Live Betting,S,Sport
+403,Combo,S,Sport
+404,Virtual Sports,S,
+406,Keno VIP,S,Keno
+407,Black Jack Solo (CZ),C,Blackjack
+408,Blackjack - Classic (CZ),C,Blackjack
+409,Sportsbook,S,
+410,Fuzzball Keno,C,Keno
+411,Dazzle me,S,Non Branded
+412,Fruity Cashword,C,Cashword
+413,Tax Free,C,WildTime
+414,King Kong,S,
+415,Hook's Heroes,S,Non Branded
+417,Foxin wins again,S,
+418,Pyramid: Quest for Immortality,S,
+419,Pinata!,C,QueenOfDiamonds
+421,Mega Moolah,S,Non Branded
+422,immortal Romance,S,Branded
+423,Avalon,S,Non Branded
+424,Thunderstruck II,S,Branded
+425,Reel Gems,S,
+426,3 Eggs,C,Match3Eggs
+427,Foxin wins,S,
+428,Foxin Wins Again,S,
+429,Gorilla go wild ,S,
+430,Koi Princess,S,Non Branded
+431,Queen of Diamonds,C,QueenOfDiamonds
+432,VIP Black,C,VIPBlack
+433,VIP Black,C,VIPBlack
+434,Multiplier Max Out,C,QueenOfDiamonds
+436,Jackpot Jester,S,
+438,Merlin's Millions,S,
+439,Mega Pe De Meia,C,PeDeMeia
+440,Aranha da Sorte,C,AranhaDaSorte
+442,Rainbow Riches ,S,
+443,Hit Series,C,QueenOfDiamonds
+444,Mermaids Millions,S,Non Branded
+445,Break Away,S,
+446,Alaskan Fishing,S,
+447,Ariana,S,Non Branded
+448,Football Star,S,
+449,What A Hoot,S,
+450,Spartacus,S,
+451,Raging Rhino,S,
+452,DoublePlay SuperBet,S,
+453,Medusa,S,
+454,Medusa 2 ,S,
+455,Cash Spin ,S,
+456,Guns N' Roses,S,Branded
+457,Sweet Winnings,C,7Heaven
+458,Drive,S,Non Branded
+459,Bikini Party,S,
+460,Classic Blackjack Gold,S,Table games
+462,Aloha! Cluster Pays,S,Non Branded
+463,Golden Island,C,GoldenIslandTreasure
+464,Rainbow Riches,S,
+465,Rainbow Riches Pick n' Mix,S,
+466,OMG! Kittens,S,
+467,Wild West,C,QueenOfDiamonds
+468,Big League Raffle Online,C,RoyalSlot
+469,Redeem The Dream,C,RedeemTheDream
+470,Quick 6,C,MultiTicketKeno
+471,Pentagram,S,
+472,Jimi Hendrix,S,Branded
+473,Bar Bar Black Sheep,S,Non Branded
+474,Stars and Stripes,C,SuperMoneyMatch
+475,Hit The Bank,C,QueenOfDiamonds
+476,Burning Desire,S,
+477,Break Da Bank Again,S,Non Branded
+478,Football: Champions Cup,S,
+479,Jackpot Jester Wild Nudge,S,
+480,Miss Midas,S,
+481,Spin Sorceress,S,
+482,Witch Pickings,S,
+483,Jack's Beanstalk,S,
+484,Zeus III,S,
+485,Mega Bucks,C,RoyalSlot
+486,Cats vs Dogs,C,XOX
+487,Diamond Payout,S,WildTime
+488,Triple 7's,C,7Heaven
+490,Roaring 20s,C,PeDeMeia
+491,Gioca Alla Sisal,C,Keno
+492,DJ Wild,S,
+493,E-Cash,C,WildTime
+494,Instant Riches,C,WildTime
+495,Blazing Red 7's,C,WildTime
+496,Lucky Moments,C,XOX
+497,Pure Gold,C,GoldenFortune
+499,20X,C,WildTime
+500,Powerball,S,
+502,Mega Million,S,
+503,Fantasy 5,S,
+504,Raffle,S,
+505,Lotto 47,S,
+506,Cash4Life,S,
+507,Lucky for Life,S,
+508,Theme Park,S,Non Branded
+509,Esqueleto Explosivo,S,3rd Party
+510,Chilli Gold II,S,
+511,Game of Thrones,S,Branded
+512,Taco Brothers,S,
+513,Electric Sam,S,
+514,Dolphin Gold,S,
+515,Mad Mad Monkey,S,
+516,A Dragon Story,S,
+517,When Pigs Fly,S,
+518,Pretty Kitty,S,
+519,Cash5,S,
+520,Secrets of Atlantis,S,Non Branded
+521,Wish upon a Jackpot,S,
+522,Super Graphics upside down,S,
+523,Fireworks,S,
+524,Red Riding Hood,S,Non Branded
+525,Triple Gems,C,PullTabs
+526,Golden Harvests,C,WildTime
+527,VIP GOLD,C,QueenOfDiamonds
+528,Secrets of Christmas,S,Non Branded
+529,Warlords ,S,Non Branded
+530,Poltava,S,
+531,Bloopers,S,
+532,Birds on a Wire,S,
+533,Zoom ,S,
+534,Hot Cross Bunnies,S,
+535,Great Wild Elk,S,
+536,Volcano Eruption,S,
+539,Jungle Jim,S,Non Branded
+540,Lost Vegas,S,Non Branded
+541,Rabbit in the Hat,S,
+543,The Twisted Circus,S,
+544,Win sum Dim sum,S,Non Branded
+545,Dragonz,S,Non Branded
+546,Montezuma,S,
+547,Superwilds,S,
+548,Home Run Riches,C,QueenOfDiamonds
+549,8-Bit Bucks,C,WildTime
+550,Sportka,S,
+551,SportkaMH,S,
+552,Eurojackpot,S,
+553,Keno,S,
+554,Euromilliony,S,
+555,Stastnych10,S,
+556,Sazkamobil,S,
+557,Kostky,S,
+558,Kasicka,S,
+559,Sazka,S,
+560,SazkaMH,S,
+561,Road Trip,C,RoyalSlot
+562,Divine Fortune,S,Non Branded
+563,Blackjack Doubler,C,BlackjackMultiTicket
+564,Joker Pro,S,Non Branded
+565,Bullseye Keno,S,MultiTicketKeno
+570,Cowboy Cash Roundup,S,QueenOfDiamonds
+571,Multiplier Max Out,S,QueenOfDiamonds
+572,Roll the Dice,S,RollTheDice
+573,Sampo,S,Sampo
+574,Alfredo,S,RoyalSlot
+575,King of Clubs,C,QueenOfDiamonds
+576,Jungle Spirit,S,Non Branded
+577,The Invisible Man,S,Branded
+579,Dead or Alive,S,Non Branded
+580,Glow,S,
+582,Motorhead,S,Branded
+583,Hall of Gods,S,
+584,Wild Turkey,S,
+585,Hansel and Gretel,S,Non Branded
+586,Scruffy Duck,S,Non Branded
+587,Copy Cats,S,Non Branded
+588,Wild Wild West,S,Non Branded
+589,Excalibur,S,
+590,Butterfly Staxx,S,Non Branded
+591,Slapshot!,C,QueenOfDiamonds
+597,VIP Gold,C,QueenOfDiamonds
+598,Egyptian Deluxe,C,VIPBlack
+599,10X,C,WildTime
+600,Live Baccarat,C,Non Branded
+601,Live Roulette,C,Non Branded
+602,Live Blackjack,C,Non Branded
+606,Live Blackjack VIP,S,
+607,Live Roulette VIP,S,
+608,Live Baccarat Squeeze,S,
+609,Live Auto Roulette,S,
+610,Live French Roulette,S,
+611,Live Blackjack Party,S,
+612,Live Immersive Roulette,S,
+613,Dream Catcher,S,Branded
+614,Treasure Bay,S,WildTime
+615,Cosmic Expander,C,WildTime
+616,Pot O Gold,S,LuckyCharms
+617,Starlight Dazzle,S,StarlightDazzle
+618,Golden Island XXL,C,GoldenIslandTreasure
+619,Roaring 20s,C,PeDeMeia
+621,Munchkins,S,Non Branded
+622,Life of Riches,S,Non Branded
+623,Cool Buck ,S,
+624,Reel Strike,S,Non Branded
+625,Forbidden Throne,S,Non Branded
+626,Jewel Quest Riches,S,3rd Party
+627,Cashapillar,S,Non Branded
+629,Fortune Girl,S,
+630,Golden Princess ,S,
+631,Secret Romance,S,
+632,Emojiplanet,S,Branded
+633,Legend Of Shangri La,S,Non Branded
+634,Wolf Cub,S,Non Branded
+636,Blood Suckers II,S,Non Branded
+637,Druids dream,S,Non Branded
+638,Finn and the Swirly Spin,S,Non Branded
+639,Spellcast,S,Non Branded
+640,Twin Spin Deluxe,S,Non Branded
+641,Reactoonz,S,Non Branded
+642,Big Win Cat,S,Non Branded
+643,FuErDai,S,Non Branded
+644,Sea Hunters,S,
+645,Mystery Joker 6000,S,Non Branded
+646,Humpty Dumpty ,S,
+647,Monster Wheels,S,Non Branded
+649,Vampire The Masquerade Las Vegas,S,
+659,Cash Busters,S,
+664,Bier Fest,S,3rd Party
+665,Mega Money Rush,S,
+666,Jurassic World,S,Branded
+667,Moby Dick,S,3rd Party
+668,Fruit blast,S,3rd Party
+669,Oink Country Love,S,Non Branded
+670,Emoticoins,S,Non Branded
+671,108 Heroes Multiplier Fortunes,S,Non Branded
+672,Gnome Wood,S,3rd Party
+675,Tasty Street,S,
+677,Clash of Queens,S,3rd Party
+678,Pick a Fortune,S,3rd Party
+686,Lucky Links,S,3rd Party
+687,Hansel & Gretel Treasure Trail,S,
+688,Wu Xing ,S,3rd Party
+689,Prosperity Palace,S,Non Branded
+690,Mermaids Diamonds,S,Non Branded
+691,Leprechaun goes to hell,S,Non Branded
+692,Moon Princess,S,Non Branded
+693,Sweet 27,S,Non Branded
+694,Multifruit,S,Non Branded
+695,Gemix,S,Non Branded
+696,Cloud Quest,S,
+697,Wizard of Gems,S,Non Branded
+698,Energoonz,S,Non Branded
+699,Fire Joker,S,Non Branded
+700,Tower Quest,S,
+701,Crazy Cows,S,Non Branded
+702,Casino Holdem,C,
+703,Jackpot Poker,C,
+704,Bell of Fortune,S,
+705,Instant Keno,C,Keno
+706,Instant Keno Multiplier,C,Keno
+707,Lady Keno,C,Keno
+708,Multiplier Max Out,C,QueenOfDiamonds
+709,Cowboy Cash roundup,C,QueenOfDiamonds
+710,Egyptian Oasis,C,VIPBlack
+711,50X,C,WildTime
+712,eCash,C,WildTime
+713,eCash,C,WildTime
+714,Queen of Diamonds,C,QueenOfDiamonds
+715,Mini eRentier,C,PeDeMeia
+716,eRentier,C,PeDeMeia
+717,Super eRentier,C,PeDeMeia
+718,Book of Dead,S,Non Branded
+719,7 Sins,S,Non Branded
+720,Super Flip,S,Non Branded
+721,Merry Xmas,S,Non Branded
+722,Lady of Fortune,S,Non Branded
+723,Grim Muerto,S,Non Branded
+724,Mystery Joker,S,Non Branded
+725,Wild North,S,Non Branded
+726,Xmas Joker,S,Non Branded
+727,Pearls of India,S,
+728,Pimped,S,
+729,Sails of Gold,S,Non Branded
+730,Golden Legend,S,
+731,Enchanted Meadow ,S,Non Branded
+732,Royal Masquerade,S,
+733,Fruit vs Candy,S,
+734,Cash Crazy,S,
+739,Huangdi - The Yellow Emperor,S,
+743,Troll Hunters,S,Non Branded
+744,Golden Ticket,S,Non Branded
+745,Jade Magician,S,Non Branded
+746,Prissy Princess,S,
+748,Jurassic Park,S,
+749,Terminator 2,S,Branded
+750,Playboy,S,Branded
+751,Thunderstruck I,S,
+752,Goldwyns Fairies,S,3rd Party
+753,Girls with Guns I,S,Non Branded
+754,The Finer Reels of Life ,S,
+755,Avalon II,S,Branded
+756,Gold Factory,S,Non Branded
+757,Leagues of Fortune,S,Non Branded
+758,Tarzan,S,
+759,Titans of the Sun - Hyperion,S,Non Branded
+760,Bridesmaids,S,
+761,Myth,S,Non Branded
+762,Wild Blood,S,Non Branded
+763,Hugo,S,Branded
+773,Viking Runecraft,S,Non Branded
+774,Super Sumo,S,3rd Party
+775,Enchanting Spells,S,3rd Party
+776,Zlata Muska,C,SuperMoneyMatch
+777,Shocking 7,C,QueenOfDiamonds
+800,1Can 2Can,S,Non Branded
+801,Zoom,S,3rd Party
+802,Poltava,S,3rd Party
+803,Red Queen Blackjack,C,
+804,Double Play Superbet,S,Non Branded
+805,Starmania,S,Non Branded
+806,Spin Sorceress,S,Non Branded
+807,Cash Stampede,S,Non Branded
+808,Batman 2016,S,
+809,Volcano Eruption,S,Non Branded
+810,Psycho,S,
+811,Dragon Drop,S,Non Branded
+812,Witch Pickings,S,Non Branded
+813,The Spin Lab,S,
+814,Pentagram,S,3rd Party
+815,Wish Upon a Jackpot,S,3rd Party
+816,Zeus III,S,3rd Party
+817,Jungle Jackpot,S,3rd Party
+818,King Kong,S,Branded
+819,Wild Antics,S,3rd Party
+821,Casper,S,
+822,Super Graphics Upside Down,S,
+823,Fireworks,S,3rd Party
+824,Hot Cross Bunnies,S,3rd Party
+825,DJ Wild,S,3rd Party
+826,Taco Brothers,S,3rd Party
+827,Electric Sam,S,3rd Party
+828,Bloopers,S,3rd Party
+829,Jacks Beanstalk,S,Non Branded
+830,Mad Mad Monkey,S,Non Branded
+831,A Dragons Story,S,Non Branded
+832,Great Wild Elk,S,Non Branded
+833,Dolphin Gold,S,3rd Party
+834,Birds on Wire,S,3rd Party
+835,Merlin's Millions,S,Non Branded
+837,Bars and Bells,S,
+838,Chilli Gold,S,
+839,Double the Devil,S,
+840,Double Play Superbet,S,
+841,Doctor Love,S,Non Branded
+842,Foxin Wins,S,Non Branded
+843,Foxin Wins Again ,S,Non Branded
+844,Frogs n Flies,S,
+845,Geckos Gone Wild,S,
+846,Gorilla Go Wild,S,Non Branded
+847,Danger! High Voltage,S,3rd Party - Branded
+848,Jackpot Jester 50k,S,Non Branded
+849,Jackpot Jester Wild Nudge,S,Non Branded
+850,King Kong Cash,S,3rd Party
+851,Medusa,S,Non Branded
+852,Medusa 2,S,Non Branded
+853,Silver Lion,S,3rd Party
+854,Millionaires Club III,S,
+855,Miss Midas,S,Non Branded
+856,Monkey in the Bank ,S,
+857,Moon Temple ,S,
+858,OMG! Kittens ,S,
+859,Raging Rhino ,S,3rd Party
+860,Rainbow Riches,S,3rd Party
+861,Spartacus,S,
+864,Legend of White Buffalo,S,3rd Party
+866,300 Shields,S,Non Branded
+867,A While on the Nile,S,Non Branded
+868,Bingo Billions ,S,Non Branded
+869,Blazing Goddess,S,3rd Party
+870,Genie Wild,S,Non Branded
+871,Green Lantern 2016,S,
+872,Irish Eyes,S,Non Branded
+873,Irish Eyes II,S,Non Branded
+874,Merlin's Magic Respins,S,Non Branded
+875,More Monkeys Jackpot,S,3rd Party
+876,Owl eyes,S,Non Branded
+877,Robin Hood Prince of Tweets,S,Non Branded
+878,Spanish Eyes ,S,Non Branded
+879,Super Safari,S,Non Branded
+880,The Flash 2016,S,
+881,Wild West ,S,Non Branded
+882,Wolfpack Pays,S,Non Branded
+883,Roulette Master,S,Non Branded
+885,Chilli Gold 2,S,3rd Party
+886,Montezuma,S,3rd Party
+888,Lady of Egypt,S,
+889,Bier Haus,S,3rd Party
+890,Ramesses Riches,S,Non Branded
+891,Justice League,S,
+892,Fruit Warp,S,3rd Party
+893,Fire Queen,S,
+894,Red Flag Fleet,S,
+895,Golden,S,
+896,Miss Kitty,S,
+897,Taco Brothers Saving Christmas,S,3rd Party
+898,Prosperity Twin,S,Non Branded
+899,Astro Cat,S,3rd Party
+900,Perfect BlackJack,C,
+901,3 Card Brag,C,
+902,White king,S,
+903,Santa Surprise,S,
+904,Wild Gambler,S,
+905,Great Blue,S,
+906,Mr. Cashback,S,
+907,Leprechaun's Luck,S,
+908,Treetop Treasures,C,QueenOfDiamonds
+911,Dolphin Gold with Stellar Jackpots,S,3rd Party
+912,Panda Pow,S,3rd Party
+913,Flame Busters,S,3rd Party
+914,Imperial Dragon,S,3rd Party
+915,Valhalla,S,3rd Party
+916,Wild Play Superbet,S,Non Branded
+917,Bonanza,S,
+918,Instant - Horses,S,3rd Party
+919,Instant - Greyhounds,S,3rd Party
+920,Instant - Trotting,S,3rd Party
+921,Instant - Speedway,S,3rd Party
+922,Babushkas,S,3rd Party
+923,Red Roo,S,3rd Party
+924,Siberian Siren,S,
+925,Ivanhoe,S,3rd Party
+926,Sam on the Beach,S,
+927,Wild Toro,S,
+928,Super Lucky Frog,S,3rd Party
+929,Luchadora,S,3rd Party
+930,Jackpot Jester 50k,S,
+931,Merlin’s Millions Superbet,S,
+932,Double Play Superbet,S,
+933,Medusa 2,S,
+934,Glorious Empire,S,Non Branded
+935,Dolphin Gold,S,
+936,Instant - Cycling,S,3rd Party
+937,Instant Virtual - Racing,S,
+938,Platinum Pyramid,S,Non Branded
+939,Thai  Sunrise,S,Non Branded
+940,TED,S,3rd Party - Branded
+945,Lightning Gems,S,Non Branded
+947,The Cheshire Cat,S,
+948,Bruce Lee,S,
+950,Paranormal Activity,S,
+951,Diamond Wild,S,
+952,Esqueleto Explosivo,S,
+953,Bingo75-953,C,
+954,Baccarat,S,
+955,Blackjack,S,
+956,Joker Poker,S,
+958,Blackjack Multihand PT,S,Table games
+963,Surfin Reels,S,3rd party
+965,Hot Chilli,S,3rd party
+966,Phoenix Fire Power Reels,S,3rd party
+967,Colossal Vikings,S,3rd party
+968,Arabian Fire Loaded with Loot,S,3rd party
+969,Snakes and Ladders,S,3rd party
+970,Dragon Stone,S,Non Branded
+971,Pirates Plenty Battle for Gold,S,3rd party
+972,European Roulette VIP,S,Table games
+973,The Great Chicken Escape,S,3rd party
+974,Tree of Fortune,S,Non Branded
+975,Skulls of Legend,S,
+978,Sword of Destiny,S,3rd Party
+979,Snow Leopard,S,3rd Party
+980,Five Pirates,S,3rd Party
+981,Blood Queen,S,
+982,Fortunes of the Dead,S,3rd Party
+984,Mad Mad Monkey HQ,S,Non Branded
+985,Demon Gems,S,3rd Party
+986,2 Fat Cats,S,3rd Party
+987,Grand National Slot,S,
+989,Renegades,S,Non Branded
+990,Electric Nights,S,3rd Party
+991,Glitter Gems,S,
+993,The Enforcer,S,
+995,Acorn Pixie ,S,3rd Party
+996,MG-Test,S,
+997,Grand Spinn Superpot,S,Non Branded
+999,Heidis Bier Haus,S,3rd Party
+1000,Pink Elephants,S,
+1001,Blazin' Hot 7's ,S,3rd Party
+1004,Foxin' Wins Christmas Edition,S,Non Branded
+1005,Jolly's Gifts,S,
+1007,Not Enough Kittens,S,
+1008,Jade Idol,S,Non Branded
+1009,Cool Bananas,S,Non Branded
+1010,Hugo 2,S,Branded
+1013,Dragon Wins,S,
+1016,Samurai Split,S,Non Branded
+1027,An Evening with Holly Madison,S,
+1028,Sunset Reels,S,
+1029,Golden Mane,S,
+1030,James Dean,S,
+1031,8th Wonder,S,
+1032,Big Wheel,S,
+1034,Jaguar Gems,S,3rd Party
+1035,Theatre of Night,S,Non Branded
+1036,Giant Gems,S,3rd Party
+1037,Joker 10K,S,3rd Party
+1043,Holly Jolly Penguins,S,Non Branded
+1044,Wacky Panda,S,Non Branded
+1045,Deco Diamonds,S,3rd Party
+1049,Planet Fortune,S,Non Branded
+1050,Scrolls of Ra HD,S,Non Branded
+1052,Lucky Clover ,S,Non Branded
+1055,Royal Cash,S,Non Branded
+1057,Super Fast Hot Hot ,S,Non Branded
+1059,Alice Adventure,S,Non Branded
+1060,Spin or Reels HD ,S,Non Branded
+1062,The Best things in life ,S,Non Branded
+1063,Super Lucky Reels,S,Non Branded
+1064,Forest Mania,S,Non Branded
+1069,Lucky 3,S,
+1074,Disco Double,S,
+1077,Fruit Boxes,S,Non Branded
+1078,Beetle Jewels,S,Non Branded
+1079,Absolute Super Reels ,S,Non Branded
+1083,Booster,S,
+1084,Joker Stacks,S,Non Branded
+1085,Eye of the Amulet,S,Non Branded
+1090,Roulette VIP,S,Table games
+1093,Blackjack Atlantic City,S,Table games
+1098,Blackjack Multihand VIP,S,Table games
+1100,Fruity Cubes,C,PullTabsMultiTicket
+1101,King of Clubs,C,QueenOfDiamonds
+1102,Egyptian Oasis,C,VIPBlack
+1103,Slapshot!,C,QueenOfDiamonds
+1104,Triple Gems,C,PullTabs
+1105,100X,C,WildTime
+1106,Mina De Ouro,C,WildTime
+1107,VIP Platinum,C,QueenOfDiamonds
+1108,Stastna chvile,C,XOX
+1109,Wizard of All,C,WildTime
+1110,Egyptian Deluxe,C,VIPBlack
+1111,Prince of Hearts,C,QueenOfDiamonds
+1112,Fiesta Payout,C,QueenOfDiamonds
+1113,King of Clubs,C,QueenOfDiamonds
+1114,Ultimate Wizard,C,QueenOfDiamonds
+1115,Zlata Rybka,C,PeDeMeia
+1117,Keno Extra Reveals,C,KenoWithFreePlays
+1118,Tax Free,C,WildTime
+1119,Slapshot (Buly),C,QueenOfDiamonds
+1120,Caribbean Cashword,C,Cashword
+1121,Wild Win Xtra,C,QueenOfDiamonds
+1122,Wild Time Mania,C,QueenOfDiamonds
+1123,Wheel Of Fortune,C,WheelOfFortune2019
+1125,Summer Cookout,C,QueenOfDiamonds
+1127,Quick 6,C,MultiTicketKeno
+1128,3-2-1 Draw!,C,321DrawKeno
+1129,Shamrock Winnings,C,SuperMoneyMatch
+1130,Football Frenzy,C,QueenOfDiamonds
+1131,Treetop Single Ticket Version,C,QueenOfDiamonds
+1132,Color Pop,C,ColorPop
+1133,Moonlight Multiplier,C,SuperMoneyMatch
+1134,Floresta Tropical (Treetop Treasures),C,QueenOfDiamonds
+1135,Tutti Frutti,C,PullTabsMultiTicket
+1137,Shocking 7s (7 Elétricos),C,QueenOfDiamonds
+1138,Abelha Dourada,C,BeehiveMatches
+1140,Stistko Multi (JSC),C,RoyalSlot
+1141,Underwater Treasures,C,QueenOfDiamonds
+1142,Prince Of Hearts,C,QueenOfDiamonds
+1143,Savanna Adventures,C,SavannaAdventures
+1144,Custom Cash Payout,C,CustomCashPayout
+1145,Prince of Hearts,C,QueenOfDiamonds
+1146,Unwrap the Cash 2.emise,C,WildTime
+1147,Instant Keno Multiplier 90,C,Keno
+1148,VIPPlatinumSymbols,C,QueenOfDiamonds
+1149,Instant Keno Multiplier,C,Keno
+1150,Enchanted Winnings,C,Avalanche
+1152,Lucky Digger,C,SuperMoneyMatch
+1153,Love Struck,C,Avalanche
+1154,Caribbean Cashword,C,Cashword
+1155,Lucky 7s,C,RoyalSlot
+1156,3-2-1 Draw!,C,321DrawKeno
+1157,Instant Keno,C,Keno
+1158,Sweet Crush,C,ConfectionCombos
+1159,Cash O`Lanterns,C,WildTime
+1160,Pinata Single,C,QueenOfDiamonds
+1161,Shocking 7's,C,QueenOfDiamonds
+1162,Slapshot Symbols,C,QueenOfDiamonds
+1163,Cosmic Expander 2 emise,C,WildTime
+1164,Amazon Adventure 2 emise,C,WildTime
+1165,USA Spiral,C,Avalanche
+1166,Northern Wilds,C,QueenOfDiamonds
+1167,Diamanty 50 K-ì,C,WildTime
+1168,Diamanty 100 K-ì,C,WildTime
+1169,Super Recompensa,C,WildTime
+1170,Paint Blast,C,QueenOfDiamonds
+1171,Win It All! Sports,C,WildTime
+1172,Sorcerer's Luck,C,WildTime
+1173,Holiday Gold,C,WildTime
+1174,3-2-1 Draw! 85,C,321DrawKeno
+1175,Holiday Cheer,C,QueenOfDiamonds
+1177,RoboCash,C,SuperMoneyMatch
+1178,Steampunk Treasures,C,SuperMoneyMatch
+1179,Mega Rentier,C,PeDeMeia
+1180,HiLo,C,HiLo21
+1182,Sunset Winnings,C,QueenOfDiamonds
+1183,Diamanty 50 Kc,C,WildTime
+1184,Diamanty 100 Kc,C,WildTime
+1185,Cash Avenue,C,QODLimitedFeaturePoints
+1186,Mini Rentier 2 emise,C,PeDeMeia
+1187,Rentier 2 emise,C,PeDeMeia
+1188,Super Rentier 2 emise,C,PeDeMeia
+1189,Zlata Muska 2 emise,C,SuperMoneyMatch
+1190,Zlata Muska Multi,S,LuckyCharms
+1191,Stistko 5 Kc,C,SuperMoneyMatch
+1192,Stistko 10 Kc,C,SuperMoneyMatch
+1193,Stistko 20 Kc,C,SuperMoneyMatch
+1194,Bullseye Keno,S,MultiTicketKeno
+1195,Stistko 5KC 3 emise,C,SuperMoneyMatch
+1196,Stistko 10KC 2 emiss,C,SuperMoneyMatch
+1197,Stistko 20KC 2 emise,C,SuperMoneyMatch
+1198,Springtime Combos,C,ConfectionCombos
+1199,VIP Ultra,C,QueenOfDiamonds
+1200,Cleo's Wish,S,Non Branded
+1201,Wonder Hounds,S,Non Branded
+1202,Funky Chicken,S,
+1204,Eye of Horus,S,3rd Party
+1205,Wilds Deluxe,S,3rd Party
+1206,Wish Upon a Leprechaun,S,
+1207,Respin Rhino,S,3rd Party
+1208,Aladdin's Legacy,S,Non Branded
+1209,Flame,S,Non Branded
+1210,Centurion,S,3rd Party
+1211,Lucky Little Gods,S,Non Branded
+1212,Robin of Sherwood,S,3rd Party
+1213,Bust The Bank,S,Non Branded
+1214,The Sand Princess,S,3rd Party
+1215,King of Kaiju: Rampage Riches,S,3rd Party
+1218,Sheer Magic,S,3rd party
+1219,Soul Queen,S,3rd party
+1220,Rich N Wild,S,3rd party
+1221,Fruit Spin,S,Non Branded
+1222,Asgardian Stones,S,Non Branded
+1223,Hotline,S,Non Branded
+1226,Mercy Of The Gods,S,Non Branded
+1227,Grand Spinn,S,Non Branded
+1228,The Wolfs Bane,S,Non Branded
+1229,Archangels Salvation,S,Non Branded
+1230,Wilderland,S,Non Branded
+1231,Gold King,S,Non Branded
+1233,Imperial Opera,S,Non Branded
+1234,House of Doom ,S,Non Branded
+1235,Sweet Alchemy,S,
+1236,Ninja Fruit ,S,Non Branded
+1237,5x Magic,S,Non Branded
+1238,Baker’s Treat,S,
+1239,Legacy of Egypt,S,Non Branded
+1240,Cats and Cash,S,Non Branded
+1242,1421 Voyages of Zheng He,S,3rd party
+1243,Cash Camel ,S,Non Branded
+1244,Realistic Roulette,S,
+1245,Blackjack ,S,
+1246,Time is Money,S,
+1247,Bully4U,S,
+1248,Stacks O'Gold,S,Non Branded
+1249,Illusions 2,S,Non Branded
+1250,Million Coins Respin,S,Non Branded
+1264,Vegas Nights,S,3rd party
+1265,Dragon Kingdom ,S,3rd party
+1266,Queen of Gold,S,
+1267,Pixie Wings,S,3rd party
+1269,Cash Cave,S,3rd party
+1270,Rumble Rumble,S,3rd party
+1271,King Chameleon,S,3rd party
+1272,Light Em Up,S,3rd party
+1273,Dolphins Luck 2,S,
+1274,Cherry Bomb Deluxe,S,3rd party
+1275,Shark Meet,S,3rd party
+1276,Wild Jester,S,3rd party
+1277,Zeus 2 ,S,
+1278,European Roulette,S,
+1279,Slot Gamble - Beat the Dealer,S,
+1280,Double Bonus Poker 1 Hand,S,
+1287,3 Hit Pay,S,Non Branded
+1288,Gold Rush,S,3rd party
+1289,7 Piggies,S,3rd party
+1290,Pandas Fortune,S,3rd party
+1291,Santa,S,3rd party
+1292,Exotic Fruit,S,3rd party
+1293,Big Apple Wins,S,3rd party
+1294,Booming Seven Deluxe,S,3rd party
+1295,Wolf Gold,S,3rd party
+1296,Icy Wilds,S,3rd party - Premium
+1298,Legend of Loki ,S,Non Branded
+1299,Cleopatra,S,3rd party - Premium
+1300,Mojo Spin,S,3rd party
+1310,Super Hot Fruits,S,3rd Party
+1311,Centurion Freespins,S,3rd Party
+1312,The Guardians ,S,3rd Party
+1313,Atlantis,S,3rd Party
+1314,Henry VIII,S,3rd Party
+1315,Stellar Jackpots Serengeti lions,S,3rd Party
+1316,Treasure Of The Pyramids,S,3rd party
+1317,Candy Cash,S,
+1318,Gladiator of Rome,S,
+1319,Tutan Keno,S,3rd party
+1320,Dream Date,S,Non Branded
+1321,Diamond Empire,S,Non Branded
+1322,Fortunes of Asgard ,S,
+1323,Temple of Tut,S,3rd Party
+1324,Silver Lioness 4x,S,3rd Party
+1326,Mystique Grove,S,
+1333,Wild Scarabs,S,Non Branded
+1334,Fortunium,S,Non Branded
+1335,Temperance,S,3rd Party
+1336,Amazing Aztecs,S,3rd Party
+1337,Agent Valkyrie,S,3rd Party
+1338,Rainbrew,S,3rd Party
+1339,Football:Champions Cup,S,Non Branded
+1340,Witchcraft Academy,S,Non Branded
+1341,BollyWood Story,S,Non Branded
+1342,Jumanji,S,Branded
+1344,Mirror Mirror,S,Non Branded
+1345,Swipe and Roll,S,Non Branded
+1346,Berryburst,S,Non Branded
+1347,BerryBurst Max,S,Non Branded
+1348,Cops N Robbers,S,Non Branded
+1349,Hugo Goal,S,Branded
+1350,Sizzling Spins,S,Non Branded
+1351,Rise of Olympus,S,Non Branded
+1352,Street Magic,S,Non Branded
+1354,Asgard,S,3rd party
+1355,Vegas Magic,S,3rd party
+1356,Crystal Clans,S,Non Branded
+1357,Super Fast Hot Hot Respin,S,Non Branded
+1358,Fruit Bonanza,S,Non Branded
+1359,Foxin Wins Football Fever,S,Non Branded
+1360,Inspector Gadget,S,3rd Party - Branded
+1361,Queen of the Castle,S,Non Branded
+1362,Fishin Frenzy,S,3rd Party
+1363,Blazing Star,S,3rd Party
+1364,Double Triple Chance,S,3rd Party
+1365,Diamond Mine,S,3rd Party
+1366,Extra Chilli,S,
+1367,So Hot,S,Non Branded
+1368,Safari Spirit,S,3rd party
+1369,Twice the Money,S,3rd party
+1370,Diamond Chief,S,3rd party
+1371,Trojan Treasure,S,3rd party
+1372,Ming Warrior,S,3rd party
+1373,Mayan Gold,S,3rd party
+1374,Crystal Cash,S,3rd party
+1375,Roaming Reels,S,3rd party
+1376,Mustang Money,S,3rd party
+1377,Red Dragon,S,
+1378,Justice Machine,S,3rd party
+1379,Blood Bank,S,
+1380,Ambiance,S,Non Branded
+1381,Downtown,S,3rd party
+1382,Santa's Village,S,
+1383,Kitty Cash,S,
+1384,Classic Fruit,S,
+1386,Black Ice,S,3rd party
+1387,The King,S,Non Branded
+1388,Legend of Cleopatra,S,3rd party
+1389,Crystal Land ,S,
+1390,Jack In The Box,S,3rd party
+1392,243 Crystal Fruits,S,3rd party
+1394,Money Farm 2,S,3rd party
+1395,Spartans Legacy,S,
+1396,Wheel of Fortune,S,
+1397,Lucky 7,S,
+1398,Secret of Nefertiti,S,
+1399,4 Symbols,S,
+1400,Action Jack,S,3rd party - premium
+1401,Rush Football Go World Cup,S,3rd Party
+1403,Rush Horses Go!,S,3rd Party
+1404,Rush Dogs Go!,S,3rd Party
+1405,Rush Cars Go!,S,3rd Party
+1406,Rush Speedway Go!,S,
+1407,Rush Darts Live,S,
+1408,Rush Cycling Go!,S,
+1409,Rush Cricket Go,S,3rd Party
+1410,Scratch Queen of the Castle 95 slot,S,
+1411,The Mask,S,Branded
+1412,Double the Devil,S,Non Branded
+1413,Fortunes of the Amazon,S,
+1414,Leonidas King of the Spartans,S,
+1415,Lightning Horseman,S,3rd Party
+1416,Kingdoms Edge,S,Non Branded
+1417,Napoleon,S,3rd Party
+1418,Genie Megaways,S,
+1419,El Jackpotto,S,3rd Party
+1420,Pixies Of the Forest,S,
+1421,Da Vinci Diamonds,S,3rd party - Premium
+1422,MegaJackpots Cleopatra,S,
+1423,Golden Goddess,S,3rd party - Premium
+1424,Siberian Storm,S,
+1425,Cats,S,
+1426,Treasures of Troy,S,
+1429,Emperors Wealth,S,
+1431,Fa Cai Shen,S,
+1434,Koi Gate,S,
+1435,Quick Hit Ultra Pays Sun Dragon,S,
+1436,Red Flag Fleet,S,3rd Party
+1437,Spartacus,S,
+1438,Zeus III,S,
+1439,Moon Temple ,S,
+1441,Pizza Prize,S,Non Branded
+1443,Mega Pots Mega-X,S,3rd Party
+1444,The Golden Owl Of Athena,S,3rd party
+1445,Age of Caesar,S,
+1446,Wild Turkey,S,Non Branded
+1447,Robin Hood Shifting riches,S,Non Branded
+1448,Double Stacks,S,Non Branded
+1449,European Roulette,S,
+1452,Coins of Egypt,S,Non Branded
+1453,Halloween Jack,S,Non Branded
+1454,Vikings,S,Branded
+1456,Exotic Cat,S,Non Branded
+1457,Wicked Tales Dark Red,S,Non Branded
+1458,Bonanza,S,3rd Party
+1459,Celtic Goddess,S,3rd Party
+1460,Luxor,S,3rd party
+1461,Journey to the West,S,3rd party
+1462,Gods of Olympus,S,3rd party
+1463,3D European Roulette,S,3rd party - table
+1464,3D Blackjack,S,
+1466,SugarPop 2 Double Dipped,S,3rd party
+1467,Tigers Claw,S,3rd party
+1468,Diamond Wild,S,
+1470,Red Dragon Wild ,S,Non Branded
+1473,Rise of Egypt,S,3rd party
+1474,Chilli Heat,S,3rd party
+1475,Caishens Gold,S,3rd party
+1476,Great Rhino,S,3rd party
+1477,Leprechaun Song,S,3rd party
+1478,Madame Destiny,S,3rd party
+1479,Jade Butterfly,S,3rd party
+1481,Splashtastic,S,3rd party
+1482,Shuffle Bots,S,3rd party
+1483,Elephant King,S,3rd party - Premium
+1484,Fortune Dogs,S,
+1485,Sugar Skulls,S,3rd party
+1486,Vegas VIP Gold,S,3rd party
+1487,Dragon King,S,
+1488,Explosive Reels,S,
+1489,Royal Seven XXL,S,3rd party
+1490,Ramses Book,S,3rd party
+1491,Wolf Run,S,
+1492,Hot Spin,S,Non Branded
+1493,Big 500X Roulette ,S,
+1494,20p Roulette,S,
+1495,The Goonies ,S,3rd Party - Branded
+1496,Red Hot Repeater,S,3rd Party
+1497,Bai She Zhuan,S,
+1498,Rio Fever,S,3rd party
+1499,Book of Spells,S,3rd party
+1500,Monster Madness,S,3rd party
+1505,Ogre Empire ,S,3rd party
+1506,Blood Queen,S,3rd party
+1507,Adelia The Fortune Wielder,S,3rd Party
+1508,Astro Pug,S,3rd Party
+1509,Romanov Riches,S,Non Branded
+1510,Colossus Fracpot,S,
+1511,The Alchemists Gold ,S,3rd Party
+1512,DanmarksBingo,S,
+1513,BlitzBingo,S,
+1514,Friendship,S,Bingo
+1515,Sapphire,S,Bingo
+1516,Emerald Dream,S,3rd party
+1517,Mystic Moon,S,3rd party
+1518,Run With The Wolves ,S,
+1519,Magic Rewards ,S,3rd party
+1520,Cuba Caliente ,S,3rd party
+1521,Wunderfest,S,3rd party
+1522,Mexico Wins ,S,3rd party
+1523,Viking Gods Thor and Loki,S,3rd party
+1524,Fruits N Stars,S,3rd party
+1527,Banana Rock,S,Non Branded
+1528,Battle Royal,S,Non Branded
+1529,Star Joker,S,Non Branded
+1530,Bonnie and Clyde,S,3rd party
+1532,Cheeky Monkeys,S,3rd party
+1533,Mustang Gold,S,3rd party
+1534,Show me the Mummy ,S,
+1535,Blackjack Multihand,S,Table games
+1536,European Roulette ,S,Table games
+1537,Magic Mirror Deluxe,S,3rd Party
+1538,Extra Wild ,S,3rd Party
+1539,Convertus Aurum ,S,3rd Party
+1540,88 Fortunes,S,3rd Party
+1541,Rainbow Riches Home Sweet Home,S,3rd Party
+1542,Stellar Jackpots Silver Lion,S,3rd Party
+1543,Vikings Unleashed Megaways,S,3rd Party
+1544,Mars Attacks,S,
+1545,Wild Plunder,S,
+1546,Rocket Fellas,S,3rd Party
+1547,Primal Megaways,S,3rd Party
+1548,Fruit Shop Christmas Edition,S,Non Branded
+1549,Imperial Riches,S,Non Branded
+1550,Elements,S,Non Branded
+1551,Turn Your Fortune,S,Non Branded
+1552,Wild Bazaar,S,Non Branded
+1553,Strolling Staxx Cubic Fruits,S,Non Branded
+1554,Golden Grimoire,S,Non Branded
+1555,Narcos,S,Branded
+1556,5 Lucky Lions,S,
+1557,Reel Gambler,S,3rd party
+1558,Halloween ,S,
+1559,Crystal Rift,S,3rd Party
+1560,Icy Gems,S,3rd Party
+1561,Reel Talent,S,3rd Party
+1562,Action Ops Snow And Sable,S,Non Branded
+1563,Cabaret Royale,S,3rd Party
+1564,HyggeBingo,S,
+1565,DanskTop Bingo ,S,
+1566,Rainbow Bingo,S,
+1568,The Angler,S,
+1569,Fruit Zen,S,3rd party
+1570,Tiger Heart ,S,
+1573,Alkemors Tower,S,3rd party
+1577,Chilli Chilli Bang Bang,S,Non Branded
+1578,Egyptian Dreams,S,
+1579,Raging Rex ,S,Non Branded
+1580,Wild Falls ,S,Non Branded
+1581,Wild Gladiators,S,3rd party
+1582,Book of Immortals,S,Non Branded
+1583,Wolf Ridge,S,3rd party - Premium
+1584,Super Graphics Upside Down,S,3rd party
+1585,Stellar Spins,S,3rd party
+1586,Crazy Bananas,S,3rd party
+1587,Rumble Rhino,S,3rd party
+1588,La Bomba,S,Non Branded
+1589,Hot Frootastic,S,3rd Party
+1590,Battleship Direct Hit,S,3rd Party - Branded
+1591,Rainbow Riches PicknMix,S,3rd Party
+1592,Kronos,S,3rd Party
+1593,Zeus God of Thunder,S,3rd Party
+1594,Jackaroo Jack,S,3rd Party
+1595,Aftershock,S,3rd Party
+1596,Wild Plunder,S,Non Branded
+1597,Good Feathers,S,3rd Party
+1598,Lightning Strike Megaways ,S,3rd Party
+1599,Extreme Pay,S,3rd party
+1601,7s To Burn,S,3rd Party
+1603,Pets Go Wild,S,3rd party
+1604,Magic Stars 3,S,3rd party
+1605,Wolf Ridge,S,3rd party - Premium
+1606,Lucky Stripes,S,Non Branded
+1607,Wild Pixies,S,3rd party
+1608,Fancy Fruits,S,3rd party
+1609,Book of Oz,S,Non Branded
+1610,Shogun of Time,S,3rd Party
+1611,Gamevy Blackjack,S,
+1612,Medusas Golden Gaze ,S,3rd Party
+1613,Zombie Hoard,S,
+1614,Classic Roulette,S,Table games
+1615,Temple Cash Frogs N Flies,S,3rd Party
+1617,Ancient Fortunes Zeus,S,Non Branded
+1618,88 Wild Dragon,S,
+1619,Mystery of LongWei,S,
+1620,Thunder Zeus,S,
+1621,Queen Of Queens,S,
+1622,88 Riches,S,
+1623,Black Widow,S,
+1624,Dragon Egg,S,3rd party
+1625,Ways Of Fortune,S,
+1626,Viva Las Vegas ,S,3rd party
+1627,Mystic Mirror ,S,3rd party
+1629,Cash Vandal,S,Non Branded
+1631,Golden Colts        ,S,Non Branded
+1632,Phoenix Reborn,S,Non Branded
+1633,Contact,S,Non Branded
+1634,Crystal Sun,S,Non Branded
+1635,Mahjong 88,S,
+1636,Sabaton,S,Non Branded
+1637,Inferno Star,S,Non Branded
+1638,Perfect Gems,S,Non Branded
+1639,Temple of Treasures Megaways,S,3rd Party
+1640,Valletta Megaways,S,3rd Party
+1641,Chicken Fox,S,3rd Party
+1643,Grand National Slot,S,3rd Party
+1645,Fruit Climber,S,3rd Party
+1646,Maximus Payus,S,3rd Party
+1647,Midas GoldenTouch,S,3rd Party
+1648,Spin Doctor,S,3rd Party
+1649,Super Fire 7s,S,3rd Party
+1650,Temple of Nudges,S,Non Branded
+1651,Scudamores Super Stakes,S,Branded
+1652,Fruit Case,S,Non Branded
+1653,Wild Worlds,S,Non Branded
+1654,Dead or Alive 2,S,Non Branded
+1655,Arcane Reel Chaos,S,Non Branded
+1656,Spinsane,S,Non Branded
+1657,Cash O Matic,S,Non Branded
+1658,Conan,S,Branded
+1659,Ozzy Osbourne,S,Branded
+1660,Rockabilly Wolves,S,3rd Party
+1661,Magic of Pandora,S,3rd Party
+1662,Space Spins,S,3rd Party
+1663,Lara Croft Temples and Tombs,S,Branded
+1664,Reel Splitter,S,3rd Party
+1665,European Blackjack,S,Table games
+1666,American Roulette,S,Table games
+1667,Ruby Casino Queen,S,3rd Party
+1668,Village People Macho Moves,S,
+1669,Lucky Lady,S,Non Branded
+1670,Happy Birds,S,Non Branded
+1671,Book Of Sun,S,
+1672,Barnyard Twister,S,3rd party
+1674,The Nutcracker,S,Non Branded
+1675,Sunset Reels ,S,3rd party
+1676,Wild Weather,S,3rd party
+1677,Vikings Gods Gold ,S,
+1678,Frozen Queen,S,3rd party
+1679,Tutankhamun Deluxe,S,3rd party
+1680,Game of Gladiators,S,Non Branded
+1681,Rise of Merlin,S,Non Branded
+1682,Rich Wilde and the Tome of Madness,S,Non Branded
+1683,Wild Rails,S,Non Branded
+1684,Firefly Frenzy,S,Non Branded
+1685,The Sword and The Grail,S,Non Branded
+1686,Rise Of Dead,S,Non Branded
+1687,Hugos Adventure,S,Branded
+1688,Demon,S,Non Branded
+1689,Inferno Joker,S,Non Branded
+1690,Amazon Queen,S,3rd Party
+1691,Raging Rhino Megaways,S,3rd Party
+1692,Dangerous Beauty,S,3rd Party - Branded
+1693,Wolf Legend Megaways,S,3rd Party
+1694,Lightning Leopard,S,3rd Party
+1695,Double Da Vinci Diamonds,S,3rd Party - Branded
+1697,Book of the Irish,S,3rd Party
+1698,Fishin Frenzy Megaways,S,3rd Party
+1699,Foxin Twins,S,Non Branded
+1700,Thundering Buffalo,S,3rd Party - Branded
+1701,Butterfly Staxx 2,S,Non Branded
+1702,Santa vs Rudolf,S,Non Branded
+1703,Reel Rush 2,S,Non Branded
+1704,Finns Golden Tavern,S,Non Branded
+1705,Wings of Riches,S,Non Branded
+1706,Serengeti Kings,S,Non Branded
+1707,Serengeti Kings MGA,S,Non Branded
+1708,Rise of Maya,S,Non Branded
+1709,Planet of the Apes,S,
+1710,Oceans Treasure,S,Non Branded
+1711,Sherlock of London,S,3rd Party
+1712,Magic of Sahara,S,
+1713,Aztec Temple Treasures,S,3rd Party
+1714,Karamba Clan,S,Non branded
+1715,Book of Oz Lock N Spin,S,Non Branded
+1716,Sapphire Roulette Globa,S,Table games
+1717,Friendship ,S,
+1718,Sapphire,S,
+1719,Rainbow Room,S,
+1720,3888 Ways of the Dragon,S,Non Branded
+1721,Jump,S,
+1722,Change Goddess of the Moon,S,3rd party
+1723,Spin Dizzy,S,3rd party
+1724,Casino Patience,S,3rd party
+1725,Wild Fury Jackpots,S,3rd party - Premium
+1726,Fakir,S,3rd party
+1727,Boom Bang,S,3rd party
+1728,Boomshakalaka,S,
+1729,VIP Filthy Riches,S,3rd party
+1730,Fruitbat Crazy,S,
+1731,Irish Fortune,S,3rd Party
+1732,Take 5,S,3rd party
+1733,Books and Bulls,S,3rd party
+1735,Froots,S,
+1736,Fish And Chips ,S,3rd party
+1737,Zombies Gone Wild ,S,
+1738,Sevens and Fruits 20 lines ,S,
+1739,Fruits and Jokers 20 lines,S,3rd party
+1740,Magic Wilds,S,3rd party
+1743,Speed Bingo,S,
+1750,Hot Shots,S,Non Branded
+1798,Live Deutsches Roulette,S,
+1799,Live Norsk Roulette,S,
+1800,Live Suomalainen Ruletti,S,
+1801,Live Dansk Roulette,S,
+1802,Live England Roulette,S,
+1803,Lightning Roulette,S,
+1804,Salon Prive Blackjack I,S,
+1805,Salon Prive Blackjack II,S,
+1806,Salon Prive Blackjack III,S,
+1807,Blackjack Strip,S,
+1808,Blackjack Grand,S,
+1809,Blackjack Fortune VIP,S,
+1810,Blackjack Platinum VIP,S,
+1811,Dolphins,S,3rd party
+1812,Fire N Hot,S,3rd party
+1813,The Curious Cabinet,S,3rd party
+1814,Xi You Ji,S,
+1815,Chitty Bang,S,3rd party
+1816,Rainbow Wilds ,S,3rd party
+1817,Pearl of the Orient,S,Non Branded
+1818,Vikings Fortune Hold and Win,S,3rd party
+1819,The Asp of Cleopatra,S,3rd party
+1820,Rome Rise of an Empire,S,3rd Party - Branded
+1821,Ancient Egypt Classic,S,3rd party
+1822,Da Vincis Treasure,S,3rd party
+1823,Slot Of Money,S,
+1824,Burning Flame,S,
+1825,Z o d i a c,S,
+1826,Fortune Multiplier,S,
+1827,Golden ox,S,3rd party
+1828,Lucky Staxx 40 Lines,S,3rd party
+1829,Crystal Crush,S,
+1840,Book of Secrets,S,3rd party
+1841,Fruits N Fire,S,3rd party
+1842,Hunters Spirit,S,3rd party
+1843,Alchemists Gold,S,3rd party
+1854,Hell Mania,S,3rd party
+1857,King of Macedonia,S,3rd party
+1858,Fruit Awards,S,3rd party
+1859,Golden Leprechaun Megaways,S,3rd party
+1863,Golden Myth,S,3rd party
+1865,Jumbo Stampede,S,Non Branded
+1867,Super Diamond Wild,S,Non Branded
+1868,Fortune Diamond,S,Non Branded
+1869,Cherry Blast,S,
+1870,Cosmic Crystals ,S,
+1871,Chillipop  ,S,3rd party
+1872,Hot Hot Fruit,S,
+1873,Pixies of the Forest II ,S,
+1874,Golden Egypt,S,
+1876,King of Macedonia,S,3rd party
+1877,Super Fruits Wild,S,3rd Party
+1934,10p Roulette,S,3rd party - table
+1935,Turbo Roulette,S,3rd party - table
+1950,Viking Wilds,S,3rd party
+1951,Extra Juicy,S,3rd party
+1952,Super Boom,S,3rd party
+1953,Crystal Ball,S,3rd party
+1954,Egyptian Fortunes,S,3rd party
+1955,Pirates Plenty,S,3rd party
+1957,Fruits,S,3rd party
+1958,Golden Dollars Golden Cash,S,3rd party
+1959,Jumbo Stampede,S,Non Branded
+1960,Super 5 Stars,S,3rd party
+1961,Blackjack Diamond VIP,S,
+1962,Blackjack White I,S,
+1963,Blackjack White II,S,
+1964,Blackjack White III,S,
+1965,Football Studio,S,Non Branded
+2201,Gladiators Go Wild,S,Non Branded
+2202,The Fortune Pig,S,Non Branded
+2203,Golden Egg of Crazy Chicken Crazy Chicken Shooter,S,3rd party - premium
+2204,Pixies of the Forest,S,3rd party - Premium
+2206,Super Graphics Lucky Cats,S,3rd party
+2207,The Dog House,S,3rd party
+2208,Treasure of Horus,S,3rd party
+2209,Scarab,S,3rd party
+2210,Pirate Gold,S,3rd party
+2211,Action jack,S,3rd party
+2212,Wild Ocean,S,3rd party
+2213,Super hot 7s,S,3rd party
+2214,Sweet Bonanza,S,3rd party
+2215,Wai Kiki,S,3rd party
+2217,Elephant King,S,3rd party - Premium
+2219,Aussie Adventure,S,3rd party
+2221,Book of Sun Multichance,S,
+2222,Spinfinity Man,S,3rd party
+2223,Dragon Pearls,S,
+2224,Gods Temple Deluxe,S,
+2226,Book of Gold,S,3rd party
+2227,Enchanted Eyes,S,3rd party
+2228,Gold Vein,S,3rd party
+2229,Merlins Magic Mirror,S,Non Branded
+2230,Super 10 stars-PT,S,
+2231,Mystic Mirror,S,
+2232,The Asp of Cleopatra,S,
+2233,The Asp of Cleopatra,S,
+2234,Blackjack European,S,3rd party - table
+2235,Marco Polo-PT,S,
+2236,Switch BlackJack,S,3rd party - table
+2239,Vegas High Roller,S,
+2240,Viva Las Vegas ,S,
+2245,Blackjack Single Hand PT Aspire Nossa Aposta ,S,Table games
+2246,European Roulette Aspire Nossa Asposta ,S,Table games
+2250,Valkyrie Queen,S,3rd Party - Branded
+2251,Triple Raven,S,3rd Party
+2252,Rainbow Riches Megaways,S,3rd Party
+2253,Jin Ji Bao Xi Endless Treasure,S,3rd Party
+2254,Action Bank,S,3rd Party
+2255,Rainbow Riches Free Spins,S,3rd Party
+2256,Goldstruck,S,3rd Party
+2257,Who wants to be a millionaire ,S,3rd Party - Branded
+2259,Monopoly Heights,S,3rd party - branded
+2260,Beavis and Butthead,S,3rd Party - Branded
+2261,Bar X Safecracker Megaways,S,3rd Party
+2262,Carry On Camping AWP,S,3rd Party - Branded
+2263,Aussie Adventure,S,
+2264,Solar Disc,S,3rd party - Premium
+2265,Wild Fury Jackpots,S,3rd party - Premium
+2266,Golden Goddes -UK,S,3rd party - Premium
+2267,Icy Wilds,S,
+2268,Golden Egypt - UK,S,
+2269,Solar Disc,S,3rd party - Premium
+2270,Blackjack Atlantic City,S,3rd party - table
+2271,Big Thunder Quad Shot,S,3rd party
+2272,Tombstone,S,3rd party
+2273,9 Lions,S,
+2274,Pirate Booty,S,3rd party
+2275,Super Charged 7s,S,3rd party
+2276,Wild Ape,S,Non Branded
+2277,Funsize Fireworks,S,3rd party
+2278,Pussy Cat,S,3rd party
+2279,King Ramses,S,3rd party
+2280,20 Super Hot,S,
+2281,Thors lightning,S,3rd party
+2282,Mystery Reels Megaways,S,3rd party
+2283,Respin Joker,S,3rd party
+2284,Lucky Pot,S,3rd party
+2285,Moonlight Fortune,S,3rd party
+2286,The Wild Job,S,3rd party
+2287,Gem O Rama,S,3rd party
+2289,Blackjack Multihand VIP,S,3rd party - table
+2291,Vertical Roulette VIP,S,3rd party - table
+2292,Blazing Ice,S,3rd party
+2293,Dice Rush,S,3rd party
+2294,Vampire Bride,S,3rd party
+2295,Double Hot,S,3rd party
+2296,Dragons Of Fortune ,S,3rd party
+2297,88 Pearls,S,3rd party
+2298,Flip The Chip,S,3rd party
+2299,Hot Africa,S,3rd party
+2300,Jokers Five,S,3rd party
+2301,Lucky Elements,S,3rd party
+2302,Mirror Shield,S,3rd party
+2304,Mysterious Atlantis,S,3rd party
+2305,Neon Fever,S,3rd party
+2306,Wild Warp,S,3rd party
+2308,The Travels of Marco,S,3rd party
+2309,Mystic Mirror,S,3rd party
+2310,Viva Las Vegas,S,3rd party
+2311,The Asp of Cleopatra,S,3rd party
+2312,Super 12 Stars,S,3rd party
+2313,Golden Wisdom,S,3rd party
+2314,The Travels of Marco,S,3rd party
+2315,Super 10 stars,S,3rd party
+2316,Super 10 Stars,S,3rd party
+2317,Win Blaster,S,3rd party
+2318,Pinata Fiesta,S,Non Branded
+2319,Flaming Hot,S,
+2320,Pyramidion - UK,S,3rd party - Premium
+2321,40 Super Hot,S,
+2322,Funky Spin,S,3rd party
+2323,Booming Circus,S,3rd party
+2324,Aztec Palace,S,3rd party
+2325,Kanga Cash,S,3rd party
+2327,Super Joker,S,3rd party
+2328,King Of The Jungle,S,3rd party
+2329,Wild nights,S,3rd party
+2330,Little Green Men Nova Wilds,S,3rd party
+2331,Leprechauns Lucky Barrel,S,3rd party
+2333,Blackjack Double Exposure,S,3rd party - table
+2335,Blackjack Fast ,S,3rd party - table
+2337,Blackjack Vegas Strip,S,3rd party - table games
+2338,Blackjack VIP,S,3rd party - table
+2339,Vertical Roulette,S,3rd party - table
+2342,Mighty Africa,S,3rd party
+2343,777 Gems,S,
+2344,Sky Gems 5 Wilds,S,3rd party
+2345,15 Golden Eggs,S,
+2346,88 Dragon,S,
+2347,Dragons Luck,S,3rd party
+2348,Little Green Men Nova Wilds,S,3rd party
+2349,Pinata Fiesta,S,Non Branded
+2350,Blackjack Multihand,S,3rd party - table
+2365,Roulette Master,S,
+2368,Pinata Bucks,S,3rd Party
+2369,20p Slot,S,3rd Party
+2370,20p Shot,S,3rd Party
+2371,Football Favourites,S,3rd Party
+2372,Buffalo Rising Megaways,S,3rd party
+2373,Medusa Megaways,S,Non Branded
+2374,Merlins Money Burst,S,Non Branded
+2375,Secrets of the Forest,S,3rd Party
+2376,Triple Double Da Vinci Diamonds,S,3rd Party
+2377,Return of Kong Megaways,S,3rd Party
+2378,Pyramidion,S,3rd party - Premium
+2379,Extra Chili Megaways,S,
+2380,Bonanza Megaways ,S,
+2381,Wish Upon a Leprechaun Megaways,S,3rd Party
+2382,88 Fortunes Megaways,S,3rd Party
+2385,Respin Racer,S,3rd Party
+2386,Wicked Dragon Wilds Mega Drop,S,3rd Party
+2391,Rainbow Riches Megaways With Buy Pass,S,3rd Party
+2392,Rainbow Riches Leprechauns Gold,S,3rd Party
+2393,Rainbow Riches Reels of Gold,S,3rd Party
+2394,Rainbow Riches Fortune Favours,S,3rd Party
+2395,Rainbow Riches Drops of Gold,S,3rd Party
+2396,Book of Gods,S,3rd Party
+2397,MONOPOLY Grand Hotel ,S,3rd party - branded
+2399,Da Vinci Ways,S,3rd Party
+2400,Way Out Wilds,S,3rd Party
+2401,Million 7,S,3rd party
+2402,Wild Cats Multiline,S,3rd party
+2403,Vampires vs Wolves,S,3rd party
+2404,John Hunter and the Aztec Treasure,S,3rd party
+2405,Solar Queen,S,3rd party
+2408,Blackjack Single Hand Barbados,S,Table games
+2409,European Roulette Barbados,S,Table games
+2410,The Golden City,S,Non Branded
+2411,Book of Immortals,S,Non Branded
+2412,Eye of the Amulet - MGA,S,
+2413,Gladiators Go Wild,S,Non Branded
+2414,Golden Tiger - MGA,S,Non Branded
+2415,Imperial Wealth - MGA,S,
+2416,Lucky Stripes,S,Non Branded
+2417,Merlin’s Magic Mirror-MGA,S,
+2418,Stacks O Gold-MGA,S,
+2419,The Fortune Pig,S,Non Branded
+2420,Wild Ape-MGA,S,
+2421,Super Diamond Wild,S,Non Branded
+2422,BlackJack Single Hand Karamba,S,Table games
+2423,European Roulette Karamba,S,Table games
+2424,Vikings Winter,S,
+2425,Reel King Mega,S,3rd party
+2426,Back to the Fruits ,S,3rd party
+2430,Mission Cash,S,Non Branded
+2431,Ghosts N Gold,S,Non Branded
+2432,Clover Riches,S,3rd party
+2433,John Hunter and The Tomb Of The Scarab Queen,S,3rd party
+2434,Royal Gems,S,3rd party
+2435,Mega Rise,S,3rd party
+2436,Blackjack Multihand VIP,S,Table games
+2437,Blackjack Single Hand,S,Table games
+2438,Blackjack Single hand VIP,S,Table games
+2440,3HandCasinoHoldem,S,Non Branded
+2441,Doom of Egypt,S,Non Branded
+2442,Rainforest Magic,S,Non Branded
+2443,Big Win 777,S,Non Branded
+2444,Honey Rush,S,Non Branded
+2445,Xmas Magic,S,Non Branded
+2446,Wild Frames ,S,Non Branded
+2447,Legacy of Dead,S,Non Branded
+2448,Wildhound Derby,S,Non Branded
+2449,Wild Blood 2,S,Non Branded
+2450,Sports Intralot,S,
+2457,Fruit Snap,S,3rd party
+2458,Jack in a Pot,S,3rd party
+2459,Rainbow Jackpots,S,3rd party
+2460,Beer Party,S,3rd party
+2461,Royal Seven,S,3rd party
+2462,Tower of Power,S,3rd party
+2463,Fruit Mania,S,3rd party
+2464,Sticky Diamonds,S,
+2465,La Dolce Vita,S,3rd party
+2466,Explodiac,S,3rd party
+2467,Shoughuns Secret,S,3rd party
+2469,Lost Boys Loot,S,Non Branded
+2471,Witches Wild Brew,S,3rd party
+2472,Colossal Fruit Smash,S,3rd party
+2473,Pixies vs Pirates,S,3rd party
+2474,Speed Bingo,S,
+2475,Boom Pirates,S,3rd Party
+2476,Deco Diamonds Deluxe,S,3rd Party
+2478,9 Masks of Fire,S,Non Branded
+2479,Jungle Jim and the Lost Sphinx,S,Non Branded
+2480,Stacks of Pearls,S,3rd Party
+2481,Highlander,S,Non Branded
+2482,Vegas Strip Blackjack,S,Table games
+2483,Vegas Downtown Blackjack,S,Table games
+2484,Classic Blackjack,S,Table games
+2485,Atlantic City Blackjack,S,Table games
+2486,North Storm,S,3rd Party
+2487,Treasure of Lion city,S,Non Branded
+2488,Vegas Single Deck Blackjack ,S,Table games
+2489,Baccarat,S,Table games
+2490,Banana Odyssey,S,Non Branded
+2491,Aurora wilds,S,Non Branded
+2492,Agent Jane Blonde,S,Non Branded
+2493,Stumpy McDoodles,S,3rd Party
+2494,Fish Party,S,Non Branded
+2495,Newbie Room,S,
+2496,Lucky Halloween,S,3rd party
+2498,Da Vincis Mystery,S,3rd party
+2499,Book of Madness,S,3rd party
+2500,Dragons Fire Megaways,S,3rd party
+2501,Tiki Fruits,S,3rd party
+2502,Dragons Luck Megaways,S,3rd party
+2503,Mystery Reels,S,3rd party
+2504,Mystic Wheel,S,3rd party
+2505,Mystery Reels Power reels,S,3rd party
+2506,Mega Pyramid,S,3rd party
+2507,Well of wishes,S,3rd party
+2508,Dragons Fire,S,3rd party
+2509,Dragons luck Power Reels,S,3rd party
+2510,Lucky Wizard,S,3rd party
+2511,Treasure Mine,S,3rd party
+2512,Devils Number,S,3rd party
+2513,Mega Dragon,S,3rd party
+2514,Dragons Of the North,S,3rd party
+2515,Wolf Riches,S,3rd party
+2516,Viking Glory,S,3rd party
+2517,Parrots Gold,S,3rd party
+2518,Mystic Manor,S,3rd party
+2519,Duplicats,S,3rd party
+2521,Snail race,S,3rd party
+2522,Fancy Fruits Respins of Amun Re,S,3rd party
+2523,Western Jack,S,3rd party
+2524,Bubble Hits,S,3rd party
+2525,BlackJack Single Hand MrPlay  ,S,Table games
+2526,European Roulette MrPlay,S,Table games
+2527,Raging Reindeer,S,Non Branded
+2528,Tomb of nefertiti,S,3rd party
+2529,8 Flowers,S,3rd party
+2530,Armed and Wild,S,3rd party
+2531,Corsair Queen,S,3rd party
+2532,Fire Witch,S,3rd party
+2533,Firebird Double 27,S,3rd party
+2534,Fruiti,S,3rd party
+2535,FruitiXL,S,3rd party
+2536,FruitiX,S,3rd party
+2537,FruitiXX,S,3rd party
+2538,Fruity Gold,S,3rd party
+2539,Harlequin Dice,S,3rd party
+2540,Jewels Fortune,S,3rd party
+2541,Joker 40,S,3rd party
+2542,Reel Sheriff,S,3rd party
+2543,Tree of Riches,S,3rd party
+2544,Fire strike,S,3rd party
+2545,Diamond strike,S,3rd party
+2546,Jokers Jewels,S,3rd party
+2547,Monkey Warrior,S,3rd party
+2548,5 Lions Gold,S,3rd party
+2549,Imperial Fruits 100 Lines,S,3rd party
+2550,Book of Gold Double Chance,S,3rd party
+2551,Wild Elements,S,3rd party
+2552,The good the Bad and the Wild,S,3rd party
+2554,Treasure temple,S,3rd party
+2555,King of the Trident,S,3rd party
+2556,The Prancing pony,S,3rd party
+2558,Aztec Gold MEGAWAYS,S,Non Branded
+2559,Hot Spin Deluxe,S,Non Branded
+2560,Ramses Book ROAR,S,3rd party
+2561,Back to the Fruits Respins of Amun Re,S,3rd party
+2562,Egyptian King,S,Non Branded
+2563,Jingle Bells,S,3rd party
+2564,Legendary Excalibur ,S,3rd party
+2565,Jewel Scarabs,S,3rd party
+2566,Phoenix Gold,S,3rd party
+2567,Buffalo King,S,3rd party
+2568,Kassius Invictus Armis,S,3rd party
+2569,Fruit Love,S,3rd party
+2570,Rio Stars,S,3rd party
+2571,Ancient Magic,S,3rd party
+2572,Maaax Diamonds,S,3rd party
+2574,Jack Treasure,S,3rd party
+2575,Dice Dice Dice,S,3rd party
+2631,Books and Pearls respin of amun-re,S,3rd party - premium
+2633,Hooked,S,3rd party
+2635,Yucatan Quest,S,3rd party
+2636,Chicken party,S,3rd party
+2637,Forever Diamonds,S,3rd party
+2638,Piggy Riches Megaways,S,3rd party
+2639,Pot OGold,S,3rd party
+2640,BJ Royal Pair,S,Table games
+2641,Divine Showdown,S,Non Branded
+2642,Ankh of Anubis,S,Non Branded
+2643,Chronos Joker,S,Non Branded
+2644,Black Mamba,S,Non Branded
+2651,Coywolf Cash,S,Non Branded
+2652,Fortunes of Alibaba,S,Non Branded
+2653,Leprechaun Goes Wild,S,Non Branded
+2654,Riches of Robin,S,Non Branded
+2655,Testament,S,Non Branded
+2656,Sticky Joker,S,Non Branded
+2657,Thats Rich,S,Non Branded
+2658,Ring of Odin,S,Non Branded
+2659,Annihilator,S,Non Branded
+2660,Agent Destiny,S,Non Branded
+2661,Ancient Riches Casino,S,3rd party
+2662,Atlantic Wilds,S,3rd party
+2663,40 Finest XXL,S,
+2666,Bloodshot rising spirit,S,3rd party - Branded
+2667,Dawn of Egypt,S,Non Branded
+2672,Fishin For Gold,S,Non Branded
+2673,Racetrack Riches Megaboard,S,Non Branded
+2674,Blackbeard the Golden Age,S,3rd party
+2675,Blood Pact,S,3rd party
+2676,Cirtakus,S,3rd party
+2677,DeluXXXe Multi,S,3rd party
+2678,Hot Fever 2,S,3rd party
+2679,Mystic Charm,S,3rd party
+2680,Pearl Tracker,S,3rd party
+2681,Plasma Fusion,S,
+2682,European Roulette Aspire Betiton,S,Table games
+2683,BlackJack Multihand Aspire Betiton,S,Table games
+2684,BlackJack Single Hand Aspire Betiton,S,Table games
+2685,Solar Temple,S,3rd party
+2686,Twin Harlequinu,S,
+2687,Secrets Of The Temple,S,3rd party
+2689,Extra Chilli,S,3rd Party
+2690,Millionaire,S,3rd party - branded
+2691,Golden Yak,S,3rd Party
+2692,9 Pots of Gold ,S,Non Branded
+2693,Arena of Gold,S,Non Branded
+2694,Toro Rockets,S,3rd party
+2695,Age of Conquest,S,Non Branded
+2802,Gorilla Kingdom,S,Non Branded
+2831,Magic Maid Cafe,S,Non Branded
+2832,Starburst,S,Non Branded
+2833,Twin Spin,S,Non Branded
+2834,Butterfly Staxx,S,Non Branded
+2835,Reel Rush,S,Non Branded
+2836,Fruit Shop,S,Non Branded
+2837,Guns N Roses,S,Branded
+2838,Gods of Gold INFINIREELS,S,Non Branded
+2841,Majestic Megawaysu,S,Non Branded
+2842,Majestic Megaways,S,Non Branded
+2843,Twin Harlequin,S,
+2845,Super 12 Stars,S,3rd party
+2846,Gold Digger,S,Non Branded
+2848,Hot Shots 2,S,Non Branded
+2850,Bounty Belles,S,Non Branded
+2855,Street Fighter II The world warrior slot,S,Branded
+2856,Trollpot 5000,S,Non Branded
+2857,Cash Noire,S,Non Branded
+2859,Happy Riches,S,Non Branded
+2860,Parthenon Quest for Immortality,S,Non Branded
+2861,Willys Hot Chilllies,S,Non Branded
+2862,Charlie Chance in Hell to Pay,S,Non Branded
+2863,Rich Wilde and The Shield of Athena,S,Non Branded
+2864,Twisted Sister,S,Branded
+2865,Rally 4 Riches,S,Non Branded
+2866,Sweet Alchemy Bingo,S,Non Branded
+2867,Rainforrest Magic Bingo,S,Non Branded
+2868,Monopoly On The Money,S,3rd party - branded
+2869,Troll Hunters 2,S,Non Branded
+2870,Doom of Dead,S,Non Branded
+2871,RR Retro,S,3rd party
+2872,Star Cluster,S,3rd party
+2874,Lucky Streak Mark 2,S,3rd party
+2952,Nyjah Huston Skate for Gold,S,Branded
+2953,Gold Volcano,S,Non Branded
+2954,Win a Beest,S,Non Branded
+2955,Riddle Reels  A Case of Riches,S,Non Branded
+2956,Blinged,S,Non Branded
+2957,Saxon,S,Branded
+2958,Diamond Vortex,S,Non Branded
+2959,Jolly Roger 2,S,Non Branded
+2960,Golden Ticket 2,S,Non Branded
+2961,Octopus Treasure,S,Non Branded
+3021,Rainbow Riches Cluster Magic,S,3rd party
+3030,Kongo Bongo,S,3rd party
+3031,Hot n Fruity,S,3rd party
+3032,Joker Reelz,S,3rd party
+3033,Black Beard Quest Mini,S,3rd party
+3034,Spinball NAP,S,3rd party
+3035,Sherlock a Scandal In Bohemia,S,
+3041,Irish Pot Luck,S,Non Branded
+3044,Hotline 2,S,Non Branded
+3045,Disco Danny,S,Non Branded
+3046,Rage of the Seas,S,Non Branded
+3048,Dark King Forbidden Riches,S,Non Branded
+3049,Vegas Night Life,S,Non Branded
+3050,Twin Spin Megaways,S,Non Branded
+3051,Gonzos Quest Megaways,S,3rd party - branded
+3081,Helga Goes Wild,S,Non Branded
+3082,Macau High Roller,S,Non Branded
+3083,Roo Riches,S,Non Branded
+3084,Dragon Match Megaways,S,Non Branded
+3085,Sea of Riches,S,Non Branded
+3087,Aztec Gold MEGAWAYS d,S,Non Branded
+3088,Gold Digger d,S,Non Branded
+3089,Majestic Megaways d,S,Non Branded
+3090,Hot Spin d,S,Non Branded
+3091,Hot Spin Deluxe d,S,Non Branded
+3092,Super Diamond Wild d,S,Non Branded
+3093,The Golden City d,S,Non Branded
+3094,3888 Ways of the Dragon d,S,Non Branded
+3101,Celebration of Wealth,S,Non Branded
+3102,Beast of Wealth,S,Non Branded
+3103,Temple of Wealth,S,Non Branded
+3104,Feline Fury,S,Non Branded
+3105,Reactoonz 2,S,Non Branded
+3106,Rabbit Hole Riches,S,Non Branded
+3107,Helloween,S,Branded
+3108,Madame Ink,S,Non Branded
+3109,Disco Diamonds,S,Non Branded
+3110,Holiday Spirits,S,Non Branded
+3430,VIP Ultra,C,QueenOfDiamonds
+3431,Robocash,C,SuperMoneyMatch
+3432,Savanna Adventures JP,C,SavannaAdventures
+3433,Viking Runecraft Bingo,S,Non Branded
+3434,Rise of Athena,S,Non Branded
+3435,24K Dragon,S,Non Branded
+3436,New Year Riches,S,Non Branded
+3437,Ice Joker,S,Non Branded
+3438,Frozen Gems,S,Non Branded
+3439,Golden Osiris,S,Non Branded
+3440,Piggy Bank Farm,S,Non Branded
+3441,Coils of Cash,S,Non Branded
+3442,Miner Donkey Trouble,S,Non Branded
+3443,Bull in a China Shop,S,Non Branded
+3444,Lord Merlin and the Lady of the Lake,S,Non Branded
+3445,Cat Wilde in The Eclipse of the Sun God,S,Non Branded
+3446,Thunder Screech,S,Non Branded
+3447,The Paying Piano Club,S,Non Branded
+3448,The Faces of Freya,S,Non Branded
+3449,The Green Knight,S,Non Branded
+3450,Rich Wilde and the Amulet of Dead,S,Non Branded
+3451,House of Doom 2 The Crypt,S,Non Branded
+3452,Shimmering Woods,S,Non Branded
+3453,Divine Fortune Megaways,S,Non Branded
+3454,Blood Suckers,S,Non Branded
+3455,Steam Tower,S,Non Branded
+3456,Jack Hammer,S,Non Branded
+3457,Dead or Alive,S,Non Branded
+3458,Aloha Cluster Pays,S,Non Branded
+3459,Dazzle Me,S,Non Branded
+3460,Aloha Christmas,S,Non Branded
+3461,Riches of Midgard Land and Expand,S,Non Branded
+3462,Fruit Shop Megaways,S,Non Branded
+3463,Rome The Golden Age,S,Non Branded
+3464,Gordon Ramsay Hells Kitchen,S,Branded
+3465,Starburst,S,Non Branded
+3466,Aloha Cluster Pays,S,Non Branded
+3467,Blood Suckers,S,Non Branded
+3468,Butterfly Staxx,S,Non Branded
+3469,Dazzle Me,S,Non Branded
+3470,Fruit Shop,S,Non Branded
+3471,Dazzle Me Megaways,S,Non Branded
+3472,Gordon Ramsay Hells Kitchen,S,Branded
+3473,Western Gold Megaways,S,Non Branded
+3477,Morgana Megaways,S,Non Branded
+3478,Neptunes Fortune Megaways,S,Non Branded
+3479,Queen of Wonderland Megaways,S,Non Branded
+3480,Mighty Stallion Hold and Win,S,Non Branded
+3482,Aztec Gold Extra Gold Megaways,S,Non Branded
+3483,Western Gold Megaways,S,Non Branded
+3500,Gimme 5,S,
+3501,Pick 3,S,
+3502,Pick 4,S,
+3503,Cash 5 with EZ match,S,
+3601,BtoBet Sport,S,
+3621,Fire Toad,S,Non Branded
+3622,Fire Joker Freeze,S,Non Branded
+3623,Rabbit Hole Riches Court of Hearts,S,Non Branded
+3624,HammerFall,S,Branded
+3625,3 Clown Monty,S,Non Branded
+3626,Scroll of Dead,S,Non Branded
+3627,Prism of Gems,S,Non Branded
+3628,Candy Island Princess,S,Non Branded
+3629,Charlie Chance,S,Non Branded
+3630,Free Reelin Joker,S,Non Branded
+3631,Pack and Cash,S,Non Branded
+3632,Blazin' Bullfrog,S,Non Branded
+3633,Gemix 2,S,Non Branded
+3634,Hotel Yeti Way,S,Non Branded
+3635,Odin Protector of Realms,S,Non Branded
+3636,ZZ Top Roadside Riches,S,Branded
+3637,Diamonds of the Realm,S,Non Branded
+3638,Agent of Hearts,S,Non Branded
+3639,Hugo Carts,S,Branded
+3640,Sisters of the Sun,S,Non Branded
+3641,Dr Toonz,S,Non Branded
+3642,Ghost of Dead,S,Non Branded
+3643,The Wild Class,S,Non Branded
+3644,Curse of Cleopatra,S,Non Branded
+3645,Jack Hammer,S,Non Branded
+3646,Reel Rush,S,Non Branded
+3647,Rome The Golden Age,S,Non Branded
+3648,Steam Tower,S,Non Branded
+3649,Twin Spin,S,Non Branded
+3650,Super Striker,S,Premium
+3651,Parthenon Quest for Immortality,S,Non Branded
+3652,Fruit Shop Megaways d,S,Non Branded
+3653,Dazzle Me Megaways d,S,Non Branded
+3654,Guns n Roses d,S,Non Branded
+3655,Codex of Fortune,S,Non Branded
+3662,Reef Raider,S,Non Branded
+3663,Starburst XXXtreme,S,Non Branded
+3700,VIP Ultra,C,QueenOfDiamonds
+3701,RoboCash,C,SuperMoneyMatch
+3702,Springtime Combos,C,ConfectionCombos
+3703,Pirate's Quest,C,SavannaAdventures
+3704,Cosmic Pop,C,ColorPop
+3705,Mayan Saga,C,MayanSaga
+3709,Top Shot Keno,C,KenoWithFreePlays
+3710,Magic Winnings,C,Magician
+3711,Magic Winnings ,C,Magician
+3712,Holly Jolly Combos,C,ConfectionCombos
+3713,Cash Lab,C,ConfectionCombos
+3714,A to Z Riches,C,WheelOfFortune2019
+3720,VIP Ultra,C,QueenOfDiamonds
+3722,Savanna Adventures,C,SavannaAdventures
+4837,Alice Cooper and the Tome of Madness,S,Non Branded
+5004,The Prancing Pony,S,Non branded
+5005,Pot OGold,S,Non branded
+5006,Phoenix Gold,S,Non branded
+5007,Jonny Ventura and The Eye Of Ra,S,Non branded
+5008,Buffalo Rising Megaways,S,3rd Party
+5009,Eye of Horus Megaways,S,3rd Party - Branded
+5010,The Goonies,S,3rd Party - Branded
+5011,Bar X Safecracker Megaways,S,3rd Party
+5012,Fishin Frenzy Megaways,S,3rd Party - Branded
+5013,Fishin Frenzy ,S,3rd party - branded
+5014,King Kong Cash ,S,3rd Party
+5015,Wish Upon a Leprechaun Megaways,S,3rd Party
+5016,Wish Upon a Jackpot,S,3rd Party
+5017,Temple of Treasures Megaways,S,3rd party
+5018,Red Hot Repeater,S,3rd party
+5019,TED,S,3rd Party - Branded
+5020,Diamond Mine ,S,3rd Party
+5021,Beavis and Butthead,S,3rd Party - Branded
+5022,Wolf Legend Megaways,S,3rd party
+5023,Carry On Camping AWP,S,3rd party - branded
+5024,El Jackpotto,S,3rd Party
+5025,Good Feathers,S,3rd party
+5026,Rome Rise of an Empire ,S,3rd party
+5027,Jungle Jackpot ,S,3rd Party
+5028,Return of Kong Megaways,S,3rd party
+5029,Imperial Dragon ,S,3rd Party
+5030,Inspector Gadget,S,3rd Party - Branded
+5032,Super Lucky Frog,S,3rd Party
+5034,Primal Megaways,S,3rd party
+5035,Napoleon,S,3rd Party
+5036,Valletta Megaways ,S,3rd party
+5037,Wild Antics,S,3rd Party
+5038,The Prancing Pony,S,
+5039,King of the Trident,S,Non branded
+5040,The good the Bad and the Wild,S,Non branded
+5041,Bubble Hits,S,Non branded
+5042,Mystic Manor,S,Non branded
+5043,Parrots Gold,S,Non branded
+5044,Wolf Riches,S,Non branded
+5045,Dragons of the North,S,Non branded
+5046,Chitty Bang,S,Non branded
+5047,Change Goddess of the Moon ,S,Non branded
+5048,Pets Go Wild,S,3rd party
+5049,Rumble Rhino,S,Non branded
+5050,Rio Fever,S,Non branded
+5051,Luxor,S,Non branded
+5052,Jack In The Box,S,Non branded
+5053,Book of Aztec,S,3rd party
+5054,Allways fruits,S,3rd party
+5055,Book Of Pharao,S,3rd party
+5056,Hot fruits 40,S,3rd party
+5057,Book of Queen,S,3rd party
+5058,Super Lion,S,3rd party
+5059,Respin King,S,3rd party
+5060,Genie Mega Reels,S,3rd party
+5061,Glucks Joker,S,3rd party
+5062,Jokers Luck,S,3rd Party
+5063,Sakura Fortune,S,3rd Party
+5064,Big Bad Wolf,S,3rd Party
+5065,Sticky Bandits,S,3rd Party
+5073,The Thunderer,S,Non branded
+5074,Rush Horses Go,S,3rd party
+5075,Rush Dogs Go,S,3rd party
+5076,Rush Football GO,S,3rd party
+5077,Golden Race,S,3rd Party
+5078,Fortune Dragon,S,Non branded
+5079,Jack Treasure,S,Non branded
+5080,Bloodshot Rising Spirit,S,Non branded
+5081,Golden Race,S,3rd Party
+5082,Fancy Fruits,S,3rd Party
+5083,Fancy Fruits,S,3rd Party
+5084,Take 5 ,S,3rd Party
+5085,Take 5 m,S,3rd Party
+5086,Royal Seven XXL,S,3rd Party
+5087,Royal Seven XXL ,S,3rd Party
+5088, Western Jack,S,3rd Party
+5089, Western Jack Mobile,S,3rd Party
+5090,Golden Egg of Crazy Chicken CCS,S,3rd party - premium
+5091,Fruity Friends,S,Non Branded
+5092,Joker Joker,S,Non branded
+5094,Mystery Reels,S,3rd party
+5095,Royal Gems,S,3rd party
+5096,Mystery Reels MegaWays,S,3rd party
+5097,Rainbow Jackpots,S,3rd party
+5098,Reel King Mega,S,3rd party
+5099,Rio Stars,S,3rd party
+5100,Dragons Luck,S,3rd party
+5101,Piggy Riches Mega Ways,S,3rd party
+5102,Mystery Reels PowerReels,S,3rd party
+5103,Wolf Gold,S,3rd Party
+5104,Mustang Gold ,S,3rd Party
+5105,John Hunter and The Tomb Of The Scarab Queen ,S,3rd Party
+5106,Sweet Bonanza ,S,3rd Party
+5107,Buffalo King,S,3rd Party
+5108,The Dog House,S,3rd party
+5109,Great Rhino,S,3rd Party
+5110,Pirate Gold,S,3rd Party
+5111,40 Thieves,S,3rd Party
+5112,Gorilla Gold Megaway,S,3rd Party
+5113,Eye of Horus ,S,3rd party - branded
+5114,Craps,S,Live Casino
+5115,Crazy Time,S,Live Casino - Branded
+5116,Auto Roulette,S,Live Casino
+5117,Auto Roulette,S,Live Casino
+5118,Immersive Roulette,S,Live Casino
+5119,Immersive Roulette,S,Live Casino
+5120,American Roulette,S,Live Casino
+5121,Caribbean Stud Poker,S,Live Casino - Branded
+5123,Deal or No Deal,S,Live Casino - Branded
+5127,Dragon Tiger,S,Live Casino
+5129,Casino Holdem,S,Live Casino - Branded
+5131,Instant Roulette,S,Live Casino
+5132,Lightning Dice,S,Live Casino - Branded
+5134,Lightning Roulette,S,Live Casino - Branded
+5135,Blackjack VIP A,S,Live Casino
+5136,Blackjack VIP A,S,Live Casino
+5137,Mega Ball,S,Live Casino - Branded
+5138,Monopoly,S,Live Casino - Branded
+5139,Dream Catcher,S,Live Casino - Branded
+5140,Dream Catcher,S,Live Casino - Branded
+5141,Three Card Poker,S,Live Casino - Branded
+5143,Baccarat A,S,Live Casino
+5144,Power Blackjack,S,Live Casino - Branded
+5145,First Person Baccarat,S,Non Branded
+5146,First Person Craps,S,Non Branded
+5147,First Person Dragon Tiger,S,Non Branded
+5148,First Person Dream Catcher,S,Non Branded
+5149,First Person Mega Ball,S,Non Branded
+5150,Side Bet City,S,Live Casino
+5152,Super Sic Bo,S,Live Casino
+5154,Texas Hold'em Bonus Poker,S,Live Casino - Branded
+5156,Football studio,S,Live Casino
+5157,Football Studio,S,Live Casino
+5158,Ultimate Texas Hold'em,S,Live Casino - Branded
+5160,Blackjack A,S,Live Casino
+5161,Roulette,S,Live Casino
+5162,Roulette,S,Live Casino
+5163,Mystery Fox,S,Non branded
+5164,Torros Gold,S,Non branded
+5165,Chilli Heat,S,3rd Party
+5166,Diamond strike ,S,3rd Party
+5167,Jokers Jewels,S,3rd Party
+5168,Ancient Egypt Classic,S,3rd Party
+5169,Dragon Kingdom,S,3rd party
+5170,Alchemy Blast,S,3rd party
+5171,Tree of Riches,S,3rd party
+5172,5 Lions Gold,S,3rd party
+5173,Fire strike,S,3rd party
+5174,Madame Destiny,S,3rd party
+5175,Gold Rush,S,3rd Party
+5176,7 Piggies,S,3rd party
+5177,Monkey Warrior,S,3rd party
+5178,Da Vincis Treasure,S,3rd party
+5179,Vampires vs Wolves,S,3rd party
+5180,Vegas Magic,S,3rd party
+5181,Extra Juicy,S,3rd party
+5183,John Hunter and the Aztec Treasure,S,3rd party
+5184,Pandas Fortune,S,3rd party
+5185,Journey to the West ,S,3rd party
+5186,Santa,S,3rd party
+5187,The Great Chicken Escape,S,3rd party
+5188,Super Joker,S,3rd party
+5189,Egyptian Fortunes,S,3rd party
+5190,Asgard,S,3rd party
+5191,Pixie Wings,S,3rd party
+5192,Wild Pixies,S,3rd party
+5193,Vegas Nights,S,3rd party
+5194,Jade Butterfly,S,3rd party
+5195,Wild Gladiators,S,3rd party
+5196,Hot Frootastic,S,3rd party - branded
+5197,First Person Roulette,S,Non Branded
+5200,Ramses Book,S,3rd party
+5201,Ramses Book m,S,3rd party
+5202,Books and Bulls,S,3rd party
+5203,Books and Bulls m,S,3rd party
+5204,Crystal Ball,S,3rd party
+5205,Crystal Ball m,S,3rd party
+5206,Fruit Mania,S,3rd party
+5207,Fruit Mania,S,3rd party
+5208,Books and Pearls Respins of Amun Re,S,3rd party
+5209,Books and Pearls Respins of Amun Re,S,3rd party
+5210,Ramses Book ROAR,S,3rd party
+5211,Ramses Book ROAR,S,3rd party
+5212,Maaax Diamonds,S,3rd party
+5213,Maaax Diamonds m,S,3rd party
+5214,Fancy Fruits Respins of Amun Re,S,3rd party
+5215,Fancy Fruits Respins of Amun Re m,S,3rd party
+5218,Book of Madness,S,3rd party
+5219,Book of Madness m,S,3rd party
+5220,Back to the Fruits Respins of Amun Re,S,3rd party
+5221,Back to the Fruits Respins of Amun Re m,S,3rd party
+5222,Fruit Love,S,3rd party
+5223,Fruit Love m,S,3rd party
+5224,Ancient Magic,S,3rd party
+5225,First Person Lightning Roulette,S,Non Branded
+5226,Tournament Libertadores,S,3rd party
+5227,Tournament Libertadores,S,3rd party
+5228,Tournament Champions,S,3rd party
+5229,Tournament Champions,S,3rd party
+5230,League England,S,3rd party
+5231,League England,S,3rd party
+5232,League Italy,S,3rd party
+5233,League Italy,S,3rd party
+5234,Motorbikes,S,3rd party
+5235,Motorbikes,S,3rd party
+5236,LeagueSpain,S,3rd party
+5237,LeagueSpain,S,3rd party
+5238,League France,S,3rd party
+5239,League France,S,3rd party
+5240,24 7,S,3rd party- Live Casino
+5241,24 7,S,3rd party- Live Casino
+5244,Auto VIP,S,3rd party- Live Casino
+5245,Auto VIP,S,3rd party- Live Casino
+5252,Blaze,S,3rd party- Live Casino
+5253,Blaze,S,3rd party- Live Casino
+5259,Amazing Riches,S,Non Branded
+5260,Magic Book,S,3rd party
+5261,Neros Fortune,S,3rd party
+5262,Hot To Burn,S,3rd party
+5263,Fruit Party,S,3rd party
+5264,Arcane Gems,S,3rd party
+5265,Diamond Duke,S,3rd party
+5266,Mystic Force,S,3rd party
+5267,Auto Roulette VIP,S,Live Casino
+5268,Auto Roulette VIP,S,Live Casino
+5269,French Roulette Gold,S,Live Casino
+5270,French Roulette Gold,S,Live Casino
+5271,Blackjack G,S,Live Casino
+5272,Blackjack G,S,Live Casino
+5273,Dansk Roulette,S,Live Casino
+5274,Dansk Roulette,S,Live Casino
+5275,Baccarat B,S,Live Casino
+5276,Baccarat B,S,Live Casino
+5277,Blackjack Silver 2,S,Live Casino
+5278,Blackjack Silver 2,S,Live Casino
+5279,Blackjack F,S,Live Casino
+5280,Blackjack F,S,Live Casino
+5281,Blackjack VIP B,S,Live Casino
+5282,Blackjack VIP B,S,Live Casino
+5283,Blackjack VIP F,S,Live Casino
+5284,Blackjack VIP F,S,Live Casino
+5285,Blackjack Fortune VIP,S,Live Casino
+5286,Blackjack Fortune VIP,S,Live Casino
+5287,Auto Roulette La Partage,S,Live Casino
+5288,Auto Roulette La Partage,S,Live Casino
+5289,Blackjack Silver 5,S,Live Casino
+5290,Blackjack Silver 5,S,Live Casino
+5291,Blackjack Grand VIP,S,Live Casino
+5292,Blackjack Grand VIP,S,Live Casino
+5293,Blackjack Silver 1,S,Live Casino
+5294,Blackjack Silver 1,S,Live Casino
+5295,Blackjack Platinum VIP,S,Live Casino
+5296,Blackjack Platinum VIP,S,Live Casino
+5297,Blackjack J,S,Live Casino
+5298,Blackjack J,S,Live Casino
+5299,Blackjack C,S,Live Casino
+5300,Blackjack C,S,Live Casino
+5301,Baccarat Control Squeeze,S,Live Casino
+5302,Baccarat Control Squeeze,S,Live Casino
+5303,Blackjack White 1,S,Live Casino
+5304,Blackjack White 1,S,Live Casino
+5305,Blackjack White 2,S,Live Casino
+5306,Blackjack White 2,S,Live Casino
+5307,Blackjack White 3,S,Live Casino
+5308,Blackjack White 3,S,Live Casino
+5309,Blackjack VIP C,S,Live Casino
+5310,Blackjack VIP C,S,Live Casino
+5311,Speed Baccarat A,S,Live Casino
+5312,Speed Baccarat A,S,Live Casino
+5313,Lightning Roulette,S,Live Casino - Branded
+5314,Blackjack VIP I,S,Live Casino
+5315,Blackjack VIP I,S,Live Casino
+5316,Blackjack Silver 6,S,Live Casino
+5317,Blackjack Silver 6,S,Live Casino
+5318,Blackjack Silver 7,S,Live Casino
+5319,Blackjack Silver 7,S,Live Casino
+5320,Speed Baccarat B,S,Live Casino
+5321,Speed Baccarat B,S,Live Casino
+5322,Blackjack VIP K,S,Live Casino
+5323,Blackjack VIP K,S,Live Casino
+5324,Salon Prive Blackjack 1,S,Live Casino
+5325,Salon Prive Blackjack 1,S,Live Casino
+5326,Salon Prive Blackjack 3,S,Live Casino
+5327,Salon Prive Blackjack 3,S,Live Casino
+5328,Salon Prive Blackjack 2,S,Live Casino
+5329,Salon Prive Blackjack 2,S,Live Casino
+5330,Salon Prive Roulette,S,Live Casino
+5331,Salon Prive Roulette,S,Live Casino
+5332,Norsk Roulette,S,Live Casino
+5333,Norsk Roulette,S,Live Casino
+5334,Blackjack The Strip,S,Live Casino
+5335,Blackjack The Strip,S,Live Casino
+5336,Salon Prive Baccarat 2,S,Live Casino
+5337,Salon Prive Baccarat 2,S,Live Casino
+5338,Blackjack VIP L,S,Live Casino
+5339,Blackjack VIP L,S,Live Casino
+5340,Blackjack VIP M,S,Live Casino
+5341,Blackjack VIP M,S,Live Casino
+5342,Blackjack H,S,Live Casino
+5343,Blackjack H,S,Live Casino
+5344,Speed Baccarat E,S,Live Casino
+5345,Speed Baccarat E,S,Live Casino
+5346,No Comm Speed Baccarat A,S,Live Casino
+5347,No Comm Speed Baccarat A,S,Live Casino
+5348,Baccarat C,S,Live Casino
+5349,Baccarat C,S,Live Casino
+5350,Speed Baccarat C,S,Live Casino
+5351,Speed Baccarat C,S,Live Casino
+5352,Speed Baccarat D,S,Live Casino
+5353,Speed Baccarat D,S,Live Casino
+5354,Blackjack VIP N,S,Live Casino
+5355,Blackjack VIP N,S,Live Casino
+5356,Blackjack VIP O,S,Live Casino
+5357,Blackjack VIP O,S,Live Casino
+5358,Speed Baccarat F,S,Live Casino
+5359,Speed Baccarat F,S,Live Casino
+5360,Speed Baccarat G,S,Live Casino
+5361,Speed Baccarat G,S,Live Casino
+5362,No Commission Baccarat,S,Live Casino
+5363,No Commission Baccarat,S,Live Casino
+5364,Blackjack VIP P,S,Live Casino
+5365,Blackjack VIP P,S,Live Casino
+5366,Blackjack VIP R,S,Live Casino
+5367,Blackjack VIP R,S,Live Casino
+5368,Blackjack VIP S,S,Live Casino
+5369,Blackjack VIP S,S,Live Casino
+5370,Blackjack VIP T,S,Live Casino
+5371,Blackjack VIP T,S,Live Casino
+5372,Speed Baccarat H,S,Live Casino
+5373,Speed Baccarat H,S,Live Casino
+5374,Speed Baccarat I,S,Live Casino
+5375,Speed Baccarat I,S,Live Casino
+5376,Blackjack VIP D,S,Live Casino
+5377,Blackjack VIP D,S,Live Casino
+5378,Blackjack VIP Z,S,Live Casino
+5379,Blackjack VIP Z,S,Live Casino
+5380,Blackjack VIP Q,S,Live Casino
+5381,Blackjack VIP Q,S,Live Casino
+5382,Speed Baccarat J,S,Live Casino
+5383,Speed Baccarat J,S,Live Casino
+5384,Baccarat A,S,Live Casino
+5385,Blackjack VIP E,S,Live Casino
+5386,Blackjack VIP E,S,Live Casino
+5387,Blackjack Silver 4,S,Live Casino
+5388,Blackjack Silver 4,S,Live Casino
+5389,Blackjack Silver 3,S,Live Casino
+5390,Blackjack Silver 3,S,Live Casino
+5391,Deutsches Roulette,S,Live Casino
+5392,Deutsches Roulette,S,Live Casino
+5393,Blackjack Diamond VIP,S,Live Casino
+5394,Blackjack Diamond VIP,S,Live Casino
+5395,Blackjack VIP H,S,Live Casino
+5396,Blackjack VIP H,S,Live Casino
+5397,Salon Prive Baccarat 1,S,Live Casino
+5398,Salon Prive Baccarat 1,S,Live Casino
+5399,Speed Auto Roulette,S,Live Casino - Branded
+5400,Speed Auto Roulette,S,Live Casino - Branded
+5401,Speed Blackjack A,S,Live Casino
+5402,Speed Blackjack A,S,Live Casino
+5403,Speed Blackjack B,S,Live Casino
+5404,Speed Blackjack B,S,Live Casino
+5405,Speed Blackjack C,S,Live Casino
+5406,Speed Blackjack C,S,Live Casino
+5407,Speed Blackjack D,S,Live Casino
+5408,Speed Blackjack D,S,Live Casino
+5409,Speed Roulette,S,Live Casino - Branded
+5410,Blackjack A,S,Live Casino
+5411,Blackjack B,S,Live Casino
+5412,Blackjack B,S,Live Casino
+5413,Blackjack D,S,Live Casino
+5414,Blackjack D,S,Live Casino
+5415,Blackjack I,S,Live Casino
+5416,Blackjack I,S,Live Casino
+5417,Blackjack E,S,Live Casino
+5418,Blackjack E,S,Live Casino
+5419,Blackjack VIP G,S,Live Casino
+5420,Blackjack VIP G,S,Live Casino
+5421,Baccarat Squeeze,S,Live Casino
+5422,Baccarat Squeeze,S,Live Casino
+5423,Blackjack M,S,Live Casino
+5424,Blackjack L,S,Live Casino
+5425,Double Ball Roulette,S,Live Casino - Branded
+5426,Hippodrome Dual Play Roulette,S,Live Casino - Branded
+5427,Grand casino,S,Live Casino - Branded
+5428,Blackjack VIP J,S,Live Casino
+5429,Infinite Blackjack,S,Live Casino - Branded
+5430,Grand Casino,S,Live Casino - Branded
+5431,First person Top Card,S,Non Branded
+5432,Blackjack Party,S,Live Casino
+5433,VIP Roulette,S,Live Casino
+5434,VIP Roulette,S,Live Casino
+5435,Free Bet Blackjack,S,Live Casino - Branded
+5436,Lightning Baccarra,S,Live Casino - Branded
+5437,GONZOS TREASURE HUNT,S,Live Casino- Premium
+5447,Stallion Fortunes,S,Non Branded
+5449,Genie Jackpots JPK,S,3rd party
+5450,Royal Seven,S,3rd party
+5451,Royal Seven m,S,3rd party
+5452,Tower of Power,S,3rd party
+5453,Tower of Power m,S,3rd party
+5454,Win Blaster,S,3rd party
+5455,Win Blaster m,S,3rd party
+5456,Turbo4Player,S,3rd party - premium
+5457,Win Shooter,S,3rd party
+5458,Win Shooter m,S,3rd party
+5459,The Book Beyond,S,3rd party
+5460,The Book Beyond,S,3rd party
+5461,Spin n Hit,S,Non Branded
+5462, Mighty Hot Wilds ,S,3rd party
+5463,Golden 7s,S,3rd party
+5464,Fishermans Bounty,S,Non Branded
+5465,Vampire Senpai,S,3rd party
+5466,Sticky Diamonds,S,3rd party
+5467,Sticky Diamonds m,S,3rd party
+5468,Back to the Fruits,S,3rd party
+5469,Back to the Fruits m,S,3rd party
+5470,La Dolce Vita,S,3rd party
+5471,La Dolce Vita m,S,3rd party
+5472,Explodiac,S,3rd party
+5473,Explodiac,S,3rd party
+5474,Shoughuns Secret,S,3rd party
+5475,Shoughuns Secret,S,3rd party
+5476,Forever Diamonds,S,3rd party
+5477,Forever Diamonds m,S,3rd party
+5478,Ancient Magic m,S,3rd party
+5479,Books and Temples,S,3rd party
+5480,Books and Temples,S,3rd party
+5481,Roman Legion,S,3rd party
+5482,Roman Legion,S,3rd party
+5483,Golden Egg of Crazy Chicken CCS,S,3rd party - premium
+5484,Golden Egg of Crazy Chicken,S,3rd party
+5485,Golden Egg of Crazy Chicken m,S,3rd party
+5486,Dog6 GRO,S,3rd party
+5487,Dog6 GRO m,S,3rd party
+5488,Dog 6 High Odds GRO,S,3rd party
+5489,Dog 6 High Odds GRO m,S,3rd party
+5493,Grand Slam Deluxe,S,3rd party - premium
+5494,Random Player Arcade,S,3rd party - premium
+5495,Big Runner Deluxe,S,3rd party - premium
+5496,MultiPLayer 4 player,S,3rd party - premium
+5497,Book of Adventure Super stake,S,3rd party - premium
+5498,Book of Cleopatra Super Stake,S,3rd party - premium
+5499,Volcano Deluxe,S,3rd party
+5500,Fruits Gone Wild supreme,S,3rd party
+5501,Hercules super stake,S,3rd party - premium
+5502,Mighty 40 ,S,3rd party
+5503,Quantum Clash ,S,3rd party
+5504,Respin Mania,S,3rd party
+5505,Captain Boom,S,3rd party
+5506,Big Buffalo,S,3rd party
+5507,Explosion,S,3rd party
+5508,Joker Goes Wild,S,3rd party
+5509,Leprybunny St Patricks Day,S,3rd party
+5510,Combat Masters,S,3rd party
+5511,Ready Set CASH,S,3rd party
+5512,Dragon Gong,S,3rd party
+5513,Wild Five,S,3rd party
+5514,Wild Ride,S,3rd party
+5515,Dolphin Delight,S,3rd party
+5516,Temple of Tut,S,3rd party
+5517,Fortunium,S,Non Branded
+5518,Toro Rockets,S,3rd party
+5520,Lost Tomb of Karamses,S,Non Branded
+5521,Goldaur Guardians,S,Non Branded
+5522,Real Roulette with Sarati,S,3rd party - table games
+5523,Real Roulette with Bailey,S,3rd party - table games
+5524,Real Roulette with Holly,S,3rd party - table games
+5525,Real Roulette with Caroline,S,3rd party - table games
+5526,Book of Madness Respins of Amun Re,S,3rd party
+5527,Book of Madness Respins of Amun Re m,S,3rd party
+5528,Books and Pearls,S,3rd party
+5529,Books and Pearls,S,3rd party
+5530,Crystal Ball Red Hot Fire Pot,S,3rd party - premium
+5531,Crystal Ball Red Hot Fire Pot,S,3rd party - premium
+5532,Sunny Sevens,S,3rd party
+5533,Sunny Sevens m,S,3rd party
+5534,Royal Seven XXL Red Hot Fire Pot,S,3rd party - premium
+5535,Royal Seven XXL Red Hot Fire Pot,S,3rd party - premium
+5536,Crystal Burst XXL,S,3rd party
+5537,Crystal Burst XXL m,S,3rd party
+5538,Ramses book Double Rush,S,3rd party
+5539,Ramses book Double Rush m,S,3rd party
+5540,Crystal Strike ,S,3rd party
+5541,Crystal Strike,S,3rd party
+5542,Sevens and Books,S,3rd party
+5543,Sevens and Books m,S,3rd party
+5544,Book of Juno,S,3rd party
+5545,Book of Juno m,S,3rd party
+5546,Hot Hot 777s,S,Non Branded
+5547,Wild Candy,S,Non Branded
+5548,Jackpot Fortunes,S,Non Branded
+5549,Dragons of the North Deluxe,S,Non Branded
+5550,Bier Party,S,Non Branded
+5551,Big Bonus,S,3rd party
+5552,Christmas Cash Pots,S,3rd party
+5553,20p Shot,S,3rd party
+5554,Maximus Payus,S,3rd party
+5555,The Guardians,S,3rd party
+5556,Artemis vs Medusa,S,3rd party
+5557,Wild Chase Tokyo Go,S,3rd party
+5558,Ghost Glyph,S,3rd party
+5559,Eastern Emaralds,S,3rd party
+5560,Goldilocks,S,3rd party
+5561,Hot fruits 27,S,3rd party
+5562,Lucky Egypt,S,3rd party
+5563,Hot Fruits 100,S,3rd party
+5564,Allways Hot Fruits,S,3rd party
+5566,Monster Blast,S,3rd party
+5567,Hippie Days,S,3rd party
+5568,Lucky Bills Bounty Blast,S,3rd party
+5569,Olympus Fury,S,3rd party
+5570,Fruit Blast,S,3rd party
+5571,Jungle Gorilla,S,3rd party
+5573,Curse of the Werewolf Megaways,S,3rd party
+5574,The Dog House Megaways,S,3rd party
+5575,John Hunter and the Book of Tut,S,3rd party
+5576,Horsemen,S,3rd party
+5577,Magic Book 6,S,3rd party
+5578,Medusas Lair,S,3rd party
+5579,Fruit and Wild 2,S,3rd party
+5580,Creatures of the Night,S,3rd party
+5581,Cleopatras Crown,S,3rd party
+5586,7s,S,3rd party - branded
+5587,Double Triple Chance,S,3rd party
+5588,Extra Wild,S,3rd party
+5589,Convertus Aurum,S,3rd party
+5590,Magic Mirror Deluxe II,S,3rd party
+5591,Blazing Star,S,3rd party
+5592,Divine Links,S,3rd party
+5593,Crypt Of The Dead,S,3rd party
+5594,Vikings Unleashed Megaways,S,3rd party
+5595,Safari Gold Megaways,S,3rd party
+5596,Fluffy Favourites,S,3rd party
+5597,Fluffy Too,S,3rd party
+5598,Temple Of Iris 2,S,3rd party
+5599,Stampede,S,3rd party
+5600,Fluffy Favourites Megaways,S,3rd party - branded
+5601,Highland Reels,S,3rd party
+5602,Enchanted Prince,S,3rd party
+5603,Fluffy Favourites Fairground,S,3rd party
+5604,Secret Garden,S,3rd party
+5605,Reggae Rhythm,S,3rd party
+5606,Lion Gold Super Stake,S,3rd party
+5607,Celtic Spirit Deluxe,S,3rd party
+5608,Hot 7 Hold and Spin,S,3rd party
+5609,Candyways Bonanza Megaways,S,3rd party - premium
+5610,Super Joker Megaways,S,3rd party - premium
+5611,Serengeti Wilds,S,3rd party
+5612,Bandits Thunder Link,S,3rd party
+5613,Gods of Secrecy,S,3rd party
+5614,Voodoo Reels,S,3rd party
+5615,Mayan Rush,S,3rd party
+5616,Thunderstruck II,S,Branded
+5617,Thunderstruck II u,S,Branded
+5618,Mermaids Millions,S,Non Branded
+5619,Mermaids Millions u,S,Non Branded
+5620,Break da Bank Again,S,Non Branded
+5621,Break da Bank Again u,S,Non Branded
+5622,Break Away,S,Non Branded
+5623,Break Away u,S,Non Branded
+5625,Real Auto Roulette,S,3rd party - table games
+5626,9 Pots of Gold,S,Non Branded
+5627,9 Masks of Fire,S,Non Branded
+5628,Karamba Clan,S,Non Branded
+5629,Book of Oz,S,Non Branded
+5630,Game of Thrones,S,Branded
+5631,Jungle Jim El Dorado,S,Non Branded
+5632,Arena of Gold,S,Non Branded
+5633,Lara Croft Temples and Tombs,S,Branded
+5634,Book of Oz Lock N Spin,S,Non Branded
+5635,Avalon,S,Non Branded
+5636,Goddess of Fortunes,S,Non Branded
+5637,King of the Trident Deluxe,S,Non Branded
+5638,Mystery Fox Xmas Party,S,Non Branded
+5639,Epic Riches,S,Non Branded
+5640,Faith,S,Branded
+5641,Power Strike Super Spin,S,Non Branded
+5642,Hot Wild 7s,S,Non Branded
+5643,Power of the Gods,S,Non Branded
+5644,Grand Loot,S,Non Branded
+5645,American Roulette,S,Table games
+5646,Pyramid King,S,3rd party
+5647,Gems Bonanza,S,3rd party
+5648,Caishens Gold,S,3rd party
+5649,Hot Chilli,S,3rd party
+5650,Gates of Olympus,S,3rd party
+5651,The Hand of Midas,S,3rd party
+5652,Eye of the Storm,S,3rd party
+5653,Dragon Kingdom Eyes of Fire,S,3rd party
+5654,Madame Destiny Megaways,S,3rd party
+5655,Big Bass Bonanza,S,3rd party
+5656,Congo Cash,S,3rd party
+5657,Wild Wild Riches,S,3rd party
+5658,Ultra Hold and Spin,S,3rd party
+5659,Great Rhino Megaways,S,3rd party
+5660,Power of Thor Megaways,S,3rd party
+5661,Wild Booster,S,3rd party
+5662,Fishin Reels,S,3rd party
+5663,Wild West Gold,S,3rd party
+5664,Cowboys Gold,S,3rd party
+5665,Master Joker,S,3rd party
+5666,Grand,S,3rd party- Live Casino
+5667,Grand,S,3rd party- Live Casino
+5668,Viva Las Vegas,S,3rd party- Live Casino Premium
+5669,Viva Las Vegas,S,3rd party- Live Casino Premium
+5670,Nightclub Roulette,S,3rd party- Live Casino Premium
+5671,Nightclub Roulette,S,3rd party- Live Casino Premium
+5672,Classic 1,S,3rd party- Live Casino
+5673,Classic 1 m,S,3rd party- Live Casino
+5674,Speed 1,S,3rd party- Live Casino
+5675,Speed 1 m,S,3rd party- Live Casino
+5676,Royal Casino,S,3rd party- Live Casino
+5677,Royal Casino m,S,3rd party- Live Casino
+5678,Classic 2,S,3rd party- Live Casino
+5679,Classic 2 m,S,3rd party- Live Casino
+5680,Speed 2,S,3rd party- Live Casino
+5681,Speed 2 m,S,3rd party- Live Casino
+5682,AG Lobby,S,3rd party- Live Casino
+5683,AG Lobby m,S,3rd party- Live Casino
+5684,XL Roulette,S,3rd party- Live Casino
+5686,Centurion Freespins,S,3rd party
+5687,Demon Gems,S,3rd party
+5688,Fruit Climber,S,3rd party
+5689,Jaguar Gems,S,3rd party
+5690,Henry VIII,S,3rd party
+5691,2 Fat Cats,S,3rd party
+5692,Centurion,S,3rd party
+5693,Football Favourites,S,3rd party
+5694,Grand National,S,3rd party - branded
+5695,Spin Doctor,S,3rd party
+5696,Super Fire 7s,S,3rd party
+5697,Super Fruits Wild,S,3rd party
+5698,Super Hot Fruits,S,3rd party
+5699,Atlantis,S,3rd party
+5700,Book of the Irish,S,3rd party
+5701,Gold Cash Free Spins,S,3rd party
+5702,20p Roulette,S,3rd party - table games
+5703,Cops N Robbers Megaways,S,3rd party - branded
+5704,Stacked Fire 7s,S,3rd party
+5705,Vegas Cash Spins,S,3rd party
+5706,Mystic Mirror,S,3rd party
+5707,Million 777,S,3rd party
+5708,Flamingo Paradise,S,3rd party
+5709,Fruits n Jars,S,3rd party
+5710,1st Of The Irish,S,3rd party
+5711,Mysteries of Egypt,S,3rd party
+5712,Million 777,S,3rd party
+5713,Secrets of the Temple,S,3rd party
+5714,Alchemy Ways,S,3rd party
+5715,Super15 Stars,S,3rd party
+5716,Tommy Guns Vendetta,S,3rd party
+5717,Diamond Cascade,S,3rd party
+5718,Wild Animals,S,3rd party
+5719,Blackjack VIP,S,3rd party - table games
+5720,Blackjack Vegas Strip,S,3rd party - table games
+5721,Blackjack Fast,S,3rd party - table games
+5722,Blackjack Double Exposure,S,3rd party - table games
+5723,Super 10 stars,S,3rd party
+5724,The Travels of Marco,S,3rd party
+5725,Blackjack Atlantic City,S,3rd party - table games
+5726,Age of Conquest,S,Non Branded
+5727,Jungle Jim and the Lost Sphinx,S,Non Branded
+5728,Ancient Fortunes Zeus,S,Non Branded
+5729,Bar Bar Black Sheep,S,Non Branded
+5730,Wild Scarabs,S,Non Branded
+5731,Wicked Tales Dark Red,S,Non Branded
+5732,Bust The Bank,S,Non Branded
+5733,Action Ops Snow And Sable,S,Non Branded
+5734,Immortal Romance,S,Branded
+5735,Immortal Romance,S,Branded
+5736,Golden Yak,S,3rd party
+5737,Millionaire,S,3rd party - premium
+5738,Bonanza,S,3rd party
+5739,Deco Diamonds Deluxe,S,3rd party
+5740,Wacky Panda,S,Non Branded
+5741,North Storm,S,3rd party
+5742,Hyper Strike,S,Non Branded
+5743,Mega Moolah,S,Non Branded
+5744,Assassin Moon,S,Non Branded
+5745,Emerald Gold,S,3rd party
+5746,Portomaso Real Casino Roulette,S,3rd party- Live Casino Premium
+5747,BlackJack,S,3rd party- Live Casino
+5748,Andar Bahar,S,3rd party- Live Casino Premium
+5749,Dragons Fire,S,3rd party
+5750,Dragons Luck MegaWays,S,3rd party
+5751,Golden Leprechaun MegaWays,S,3rd party
+5752,Dragons Fire MegaWays,S,3rd party
+5753,Jewel Scarabs,S,3rd party
+5754,Jingle Bells,S,3rd party
+5755,Legendary Excalibur,S,3rd party
+5756,Mega Dragon,S,3rd party
+5757,Mega Pyramid,S,3rd party
+5758,Cash Ultimate,S,3rd party
+5759,Hammer of Fortune,S,3rd party
+5760,Stamp Wild,S,3rd party
+5761,Alien KO,S,3rd party
+5762,Coinflip 2,S,3rd party - premium
+5763,RA KO,S,3rd party
+5764,Book of Babylon,S,3rd party
+5765,Dragon Lord,S,3rd party
+5766,Extreme 7,S,3rd party
+5767,Prize Fighter KO,S,3rd party
+5768,Frankies Holiday,S,3rd party - premium
+5769,Cheeky Cheshire,S,3rd party
+5775,Atlantis Megaways,S,3rd party
+5776,3 Lucky Pots,S,3rd party
+5777,Tiki Runner,S,3rd party
+5778,Oliver Twist,S,3rd party
+5779,War of Gods,S,3rd party
+5780,Regal Beasts,S,3rd party
+5781,Dragons Fire INFINIREELS,S,3rd party
+5782,Night Roller,S,3rd party
+5783,10001 Nights,S,3rd party
+5784,Pirates Plenty Megaways,S,3rd party
+5785,Dynamite Riches,S,3rd party
+5786,Yucatans Mystery,S,3rd party
+5787,Vault Cracker,S,3rd party
+5788,Gonzos Quest Megaways,S,3rd party - branded
+5789,Legend of Athena,S,3rd party
+5790,Dice Dice Dice,S,3rd party
+5791,Wild Elements,S,3rd party
+5792,Devils Number,S,3rd party
+5793,Treasure Mine,S,3rd party
+5794,Lucky Wizard,S,3rd party
+5795,Dragons Luck Power Reels,S,3rd party
+5796,Mystic Wheel,S,3rd party
+5797,Tiki Fruits,S,3rd party
+5798,Da Vincis Mystery,S,3rd party
+5799,Bet on Teen Patti,S,3rd party- Live Casino Premium
+5800,Lucky 7,S,3rd party- Live Casino Premium
+5801,Teen Patti,S,3rd party- Live Casino Premium
+5802,Namaste Roulette,S,3rd party- Live Casino
+5803,32 Cards,S,3rd party- Live Casino
+5804,Baccarat Cricket table,S,3rd party- Live Casino
+5819,Adventures of Doubloon Island,S,Non Branded
+5820,Shamrock Holmes,S,3rd party
+5821,Agent Jane Blonde,S,Non Branded
+5822,Munchkins,S,Non Branded
+5823,Aztec Temple Treasures,S,Non Branded
+5824,Classic Blackjack Gold,S,Table games
+5825,Dragonz,S,Non Branded
+5826,Sherlock of London,S,3rd party
+5827,Noble Sky,S,Non Branded
+5828,Chicago Gold,S,3rd party
+5829,Amazing Links Zeus,S,3rd party
+5830,Solar Wilds,S,Non Branded
+5831,Forgotten Island,S,Non Branded
+5832,Fire Forge,S,Non Branded
+5833,Western Gold,S,3rd party
+5834,Amber Sterlings Mystic Shrine,S,Non Branded
+5835,Foxpot,S,Non Branded
+5836,Extra Chilli Megaways,S,3rd party - premium
+5837,Fish Party,S,Non Branded
+5838,Stumpy McDoodles,S,3rd party
+5839,Wild Fortunes,S,Non Branded
+5840,Wild Fruit Super Wheel,S,Non Branded
+5841,Titans Riches,S,Non Branded
+5842,Book of Mayan,S,Non Branded
+5843,European Roulette,S,Table games
+5844,Spirit of Mustang,S,Non Branded
+5845,Phoenix Kingdom,S,Non Branded
+5846,Aloha Fortune,S,Non Branded
+5847,Lucky Vegas,S,Non Branded
+5848,Treasure Temple,S,Non Branded
+5849,Aesir Treasures,S,Non Branded
+5850,Torros Gold d,S,Non Branded
+5851,Dragons of The North d,S,Non Branded
+5852,Wolf Riches,S,Non Branded
+5853,Lucky Vegas d,S,Non Branded
+5854,Hot Wild 7s d,S,Non Branded
+5855,Force of The Gods d,S,Non Branded
+5856,Stallion Fortunes d,S,Non Branded
+5857,Rumble Rhino d,S,Non Branded
+5858,Jonny Ventura and The Eye of Ra d,S,Non Branded
+5859,Four Femme Fatales,S,3rd party
+5860,Jaguar Gold,S,3rd party
+5861,Juicy Stacks,S,3rd party
+5862,Queen of Wands,S,3rd party
+5863,RainBalls,S,3rd party
+5864,Book of Gems Megaways,S,3rd party
+5865,Book of Gems Megaways NBF,S,3rd party
+5866,Party Pop,S,3rd party
+5867,Go Gold,S,3rd party
+5868,Jokers Luck Deluxe,S,3rd party
+5869,Lucky Changer,S,3rd party
+5870,Big Buffalo Megaways,S,3rd party
+5871,El Paso Gold,S,3rd party
+5872,Gold Shot,S,3rd party
+5873,The Magnificient Seven,S,3rd party - branded
+5874,Buffalo Lightning,S,3rd party
+5875,Sticky Seven Megaways,S,3rd party
+5876,Sea of Pearls,S,3rd party
+5877,Alive Megaways,S,3rd party
+5878,Wicked Dice,S,3rd party
+5881,Wonderland Wilds,S,3rd party
+5882,Einstein Eureka Moments deluxe,S,3rd party
+5883,Hot Joker,S,3rd party
+5884,Dracula,S,3rd party
+5885,Gods of Death,S,3rd party
+5886,Ultra Joker,S,3rd party
+5887,Candy Links Bonanza,S,3rd party
+5888,Super Wild Blaster,S,3rd party
+5889,Dragons and Magic,S,3rd party
+5890,Viking Smash,S,3rd party
+5891,Black Gold 2 Megaways,S,3rd party - premium
+5892,Sea God,S,3rd party
+5893,Hero Clash,S,3rd party
+5894,Joker Wild Blaster,S,3rd party
+5895,Raging Bison,S,3rd party
+5896,Giants Fortune Megaways,S,3rd party - premium
+5897,Mystery Drop,S,3rd party
+5898,Star Wild Blaster,S,3rd party
+5899,Wild Bounty,S,3rd party
+5901,Treasure of Lion city,S,Non Branded
+5902,Stacks of Pearls,S,3rd party
+5903,Boom Pirates,S,3rd party
+5904,Ruby Casino Queen,S,3rd party
+5905,Reel Splitter,S,3rd party
+5906,Space Spins,S,3rd party
+5907,Magic of Pandora,S,3rd party
+5908,Rockabilly Wolves,S,3rd party
+5909,Temple Cash Frogs N Flies,S,3rd party
+5910,Medusas Golden Gaze,S,3rd party
+5911,Shogun of Time,S,3rd party
+5912,Cabaret Royale,S,3rd party
+5913,Reel Talent,S,3rd party
+5914,Icy Gems,S,3rd party
+5915,Crystal Rift,S,3rd party
+5916,The Alchemists Gold,S,3rd party
+5917,Romanov Riches,S,Non Branded
+5918,Adelia The Fortune Wielder,S,3rd party
+5919,Celtic Goddess,S,3rd party
+5920,Exotic Cat,S,Non Branded
+5921,Rainbrew,S,3rd party
+5922,Amazing Aztecs,S,3rd party
+5923,Temperance,S,3rd party
+5924,Silver Lioness 4X,S,3rd party
+5925,Diamond Empire,S,Non Branded
+5926,Dream Date,S,Non Branded
+5927,The Sand Princess,S,3rd party
+5928,Robin of Sherwood,S,3rd party
+5929,Lucky Little Gods,S,Non Branded
+5930,Ariana,S,Non Branded
+5931,Lost Vegas,S,Non Branded
+5932,Win sum Dim sum,S,Non Branded
+5933,Life of Riches,S,Non Branded
+5934,Reel Strike,S,Non Branded
+5935,Forbidden Throne,S,Non Branded
+5936,9 Blazing Diamonds,S,3rd party
+5937,Cashapillar,S,Non Branded
+5938,Monster Wheels,S,Non Branded
+5939,Moby Dick,S,3rd party
+5940,Egyptian Tombs,S,3rd party
+5941,Oink Country Love,S,Non Branded
+5942,Emoticoins,S,Non Branded
+5943,108 Heroes Multiplier Fortunes,S,Non Branded
+5944,Gnome Wood,S,3rd party
+5945,Lucky Links,S,3rd party
+5946,Goldwyns Fairies,S,3rd party
+5947,Super Sumo,S,3rd party
+5948,Enchanting Spells,S,3rd party
+5949,Holly Jolly Penguins,S,Non Branded
+5950,Deco Diamonds,S,3rd party
+5951,Agent Jane Blonde,S,Non Branded
+5952,Vegas Single Deck Blackjack,S,Table games
+5953,Classic Blackjack,S,Table games
+5954,Vegas Downtown Blackjack,S,Table games
+5955,Vegas Strip Blackjack,S,Table games
+5956,Sapphire Roulette Globa,S,Table games
+5957,Classic Roulette,S,Table games
+5958,European Blackjack,S,Table games
+5959,Baccarat,S,Table games
+5960,American Roulette,S,Table games
+5961,8 Golden Skulls Of Holly Roger Megaways,S,3rd party
+5962,Divine Diamonds,S,3rd party
+5963,Gold Collector,S,3rd party
+5964,Hyper Gold,S,3rd party
+5965,Blazing Mammoth,S,3rd party
+5966,10000 Wishes,S,3rd party
+5967,Coin Bash,S,3rd party
+5968,Legacy of Oz,S,3rd party
+5969,Thunderstruck Wild Lightning,S,3rd party - branded
+5970,Sister Of Oz Jackpots,S,3rd party
+5971,Ancient Fortunes Poseidon Megaways,S,3rd party
+5972,Elven Gold,S,3rd party
+5973,Break da Bank Again Megaways,S,3rd party
+5974,Game of Thrones Power Stacks,S,3rd party - branded
+5975,Keno,S,3rd party
+5976,Amazing Link Apollo,S,3rd party
+5977,4 Diamond Blues Megaways,S,3rd party
+5978,Alice in Wildland,S,3rd party
+5979,Legend of the Sword,S,3rd party
+5981,Respin Joker,S,3rd party
+5982,Fruit Awards,S,3rd party
+5983,Book of Secrets,S,3rd party
+5984,Joker 40,S,3rd party
+5985,Jokers Five,S,3rd party
+5986,Lucky Pot,S,3rd party
+5987,Firebird Double 27,S,3rd party
+5988,Fire Witch,S,3rd party
+5989,Harlequin Dice,S,3rd party
+5990,8 Flowers,S,3rd party
+5991,Aztec Gems,S,3rd party
+5992,Buffalo King Megaways,S,3rd party
+5993,Cash Elevator,S,3rd party
+5994,The Magic Cauldron Enchanted Brew,S,3rd party
+5995,Dragon Hot Hold and Spin,S,3rd party
+5996,5 Lions Megaways,S,3rd party
+5997,Lucky Grace And Charm,S,3rd party
+5998,Book of Vikings,S,3rd party
+5999,Chicken Drop,S,3rd party
+6000,Fruit Party 2,S,3rd party
+6001,Rise of Giza PowerNudge,S,3rd party
+6002,Chilli Heat Megaways,S,3rd party
+6003,Yum Yum Powerways,S,3rd party
+6004,Bigger Bass Bonanza,S,3rd party
+6005,Starlight Princess,S,3rd party
+6006,Piggy Bank Bills,S,3rd party
+6007,Empty the Bank,S,3rd party
+6011,Vikings go Berzerk,S,3rd party
+6012,Valley of the Gods,S,3rd party
+6013,Desperate Dawgs,S,3rd party
+6016,Holmes and the Stolen Stones,S,3rd party
+6023,Lucky Halloween,S,3rd party
+6024,Jack in a Pot,S,3rd party
+6025,Fruit Snap,S,3rd party
+6026,Mega Rise,S,3rd party
+6027,Wild Cats Multiline,S,3rd party
+6028,Thors lightning,S,3rd party
+6029,Pirates Plenty,S,3rd party
+6030,Phoenix Fire Power Reels,S,3rd party
+6031,Pirates Plenty Battle for Gold,S,3rd party
+6032,Primate King,S,3rd party
+6033,Cash Volt,S,3rd party
+6034,What the Fox Megaways,S,3rd party
+6035,Riddle of the Sphinx,S,3rd party
+6036,Harle Coin,S,3rd party
+6037,Reptizillions Power Reels,S,3rd party
+6038,Wild Hot Chilli Reels,S,3rd party
+6039,777 Strike,S,3rd party
+6040,Joe Exotic,S,3rd party - premium
+6041,Mystic Staxx,S,3rd party
+6042,Tiki Fruits Totem Frenzy,S,3rd party
+6043,LOTI Fortune Spins,S,3rd party
+6044,Fishing Frenzy 4 Slots,S,3rd party
+6045,Rick And Morty Wubba,S,3rd party - branded
+6046,Eye Of Dead,S,3rd party
+6047,Diamond Mine Extra Gold,S,3rd party
+6048,Rick And Morty Megaways,S,3rd party - branded
+6049,Big Money Frenzy,S,3rd party
+6050,Ted Megaways,S,3rd party - branded
+6051,Thai Flower,S,3rd party
+6052,Genie Jackpots Megaways,S,3rd party
+6053,Genie Jackpots Wishmaker,S,3rd party
+6054,King Of The West,S,3rd party
+6055,Wish Upon a Leprechaun JPK,S,3rd party
+6056,Wish Upon a Jackpot JPK,S,3rd party
+6057,The Pig Wizard JPK,S,3rd party
+6058,Fishin Frenzy JPK,S,3rd party
+6059,Slots O Gold JPK,S,3rd party
+6060,Wish Upon A Jackpot Megaways,S,3rd party
+6061,Fishin Frenzy The Big Catch,S,3rd party
+6062,Pirates Frenzy,S,3rd party
+6063,Dinosaur Rage,S,3rd party
+6064,Golden Glyph,S,3rd party
+6065,Crown of Valor,S,3rd party
+6066,Loco the Monkey,S,3rd party
+6067,Northern Sky,S,3rd party
+6068,Golden Glyph 2,S,3rd party
+6069,Dragon Shrine,S,3rd party
+6070,Spinions Beach Party,S,3rd party
+6071,Tigers Glory,S,3rd party
+6083,Monkey Mania,S,3rd party
+6084,Monkey Mania m,S,3rd party
+6085,Lava Lions,S,3rd party
+6086,Lava Lions m,S,3rd party
+6087,Fruit Lines,S,3rd party
+6088,Golden Ticket,S,3rd party
+6089,Royal Seven Ultra,S,3rd party
+6090,Royal Seven Ultra,S,3rd party
+6103,Deadwood,S,3rd party
+6104,Fire In The Hole,S,3rd party
+6105,El Paso Gunfight,S,3rd party
+6123,The good the Bad and the Wild d,S,Non Branded
+6124,Pot OGold d,S,Non Branded
+6125,Luxor d,S,Non Branded
+6126,Dragons of The North Deluxe d,S,Non Branded
+6127,Epic Riches d,S,Non Branded
+6128,Alice Riches,S,Non Branded
+6129,Flamin 777,S,Non Branded
+6143,Wild Bills Bounties,S,3rd party
+6144,Pirates of Plunder Bay,S,3rd party
+6145,Heroes of Spin,S,3rd party
+6163,Shamans Dream,S,3rd party
+6164,Irish Luck,S,3rd party
+6165,White Wizard Deluxe,S,3rd party
+6166,Clover Rollover 2,S,3rd party
+6167,Fireworks Frenzy,S,3rd party
+6168,Lost Island,S,3rd party
+6169,Sugar Train,S,3rd party
+6170,Beat the Bobbies,S,3rd party
+6171,Crystal Lotus,S,3rd party
+6172,Piggy Payout,S,3rd party
+6173,White Wizard,S,3rd party
+6174,99 Times,S,3rd party
+6175,Beez Kneez,S,3rd party
+6176,Unicorn Bliss,S,3rd party
+6183,Double Hot,S,3rd party
+6184,88 Pearls,S,3rd party
+6185,Fruits N Fire,S,3rd party
+6186,Moonlight Fortune,S,3rd party
+6187,Hunters Spirit,S,3rd party
+6188,Alchemists Gold,S,3rd party
+6189,Mirror Shield,S,3rd party
+6190,Fruity Gold,S,3rd party
+6191,The Wild Job,S,3rd party
+6192,Mysterious Atlantis,S,3rd party
+6193,FruitiXL,S,3rd party
+6194,Blazing Ice,S,3rd party
+6195,Hell Mania,S,3rd party
+6196,Reel Sheriff,S,3rd party
+6197,Hot Africa,S,3rd party
+6198,Armed and Wild,S,3rd party
+6199,Fruiti,S,3rd party
+6200,Corsair Queen,S,3rd party
+6201,FruitiXX,S,3rd party
+6202,Vampire Bride,S,3rd party
+6203,Lucky Elements,S,3rd party
+6204,Golden Myth,S,3rd party
+6205,Dragons Of Fortune,S,3rd party
+6206,Dice Rush,S,3rd party
+6207,FruitiX,S,3rd party
+6208,Flip The Chip,S,3rd party
+6209,Jewels Fortune,S,3rd party
+6210,Wild Warp,S,3rd party
+6211,Gem O Rama,S,3rd party
+6212,Neon Fever,S,3rd party
+6223,Sausage Party,S,3rd party - branded
+6224,Legacy Of Ra Megaways,S,3rd party
+6225,Rolling in Gold,S,3rd party
+6226,Fishin Frenzy Prize Lines,S,3rd party
+6227,Irish Frenzy,S,3rd party
+6228,Tomb Of Dead 4 Slots,S,3rd party
+6229,Crown Gems,S,3rd party
+6230,Luck O The Irish Fortune Spins 2,S,3rd party
+6231,7s Deluxe Repeater,S,3rd party
+6232,Eye of Horus JPK,S,3rd party
+6233,Rick and Morty Wubba Lubba Dub Dub JPK,S,3rd party - branded
+6234,King Kong Cash Prize Lines,S,3rd party
+6235,The Goonies JPK,S,3rd party - branded
+6236,Sevens JK,S,3rd party
+6237,The Goonies Return,S,3rd party - branded
+6238,Fishin Frenzy Megaways JPK,S,3rd party
+6243,Slingo Reel King,S,3rd party - branded
+6244,Slingo Starburst,S,3rd party - branded
+6245,Slingo Centurion,S,3rd party - branded
+6254,Burning Wins classic 5 lines,S,3rd party
+6255,Book of Gold Double Chance,S,3rd party
+6256,Buffalo Power Hold and Win,S,3rd party
+6271,Reel King,S,3rd party - branded
+6272,Super Hot Fruits Megaways,S,3rd party - branded
+6273,Big Spin Bonus,S,3rd party
+6291,Golds Guardian,S,Non Branded
+6292,The Secret Order,S,Non Branded
+6293,Scrolls of Aphrodite,S,Non Branded
+6294,King Koko Quest,S,Non Branded
+6295,Rumble Rhino Megaways,S,Non Branded
+6311,Switch BlackJack,S,3rd party - table games
+6312,Blackjack European,S,3rd party - table games
+6313,Super 5 Stars,S,3rd party
+6314,The Asp of Cleopatra,S,3rd party
+6315,Magic Wilds,S,3rd party
+6316,Viva Las Vegas,S,3rd party
+6317,Bonnie and Clyde,S,3rd party
+6318,Super 12 Stars,S,3rd party
+6319,Super 20 Stars,S,3rd party
+6320,Hot and Win,S,3rd party
+6331,Neon Links,S,3rd party
+6332,Bounty Raid,S,3rd party
+6333,Regal Streak,S,3rd party
+6334,The Wise Cracker Lightning,S,3rd party
+6335,Treasure Mine Power Reels,S,3rd party
+6336,Amazon Island Megaways,S,3rd party
+6337,NFT Megaways,S,3rd party
+6338,Shah Mat,S,3rd party
+6339,Dynamite Riches Megaways,S,3rd party
+6340,Dragon King Legend of the Seas,S,3rd party
+6341,Well of Wilds Megaways,S,3rd party
+6351,Book of Riches Deluxe,S,3rd party
+6352,Shake Shake Leprechaun,S,3rd party
+6353,Mayan Cache,S,3rd party
+6354,Alice and the Mad Respin Party,S,3rd party
+6355,Blackjack Party,S,Live Casino
+6356,First Person Roulette,S,Non Branded
+6357,American Roulette,S,Live Casino
+6371,Banca Francesa Evolution,S,3rd party - table games
+6372,Banca Francesa Evolution VIP,S,3rd party - table games
+6373,Roulette Evolution,S,3rd party - table games
+6374,Roulette Evolution VIP,S,3rd party - table games
+6375,The Blackjack,S,3rd party - table games
+6376,The Blackjack VIP,S,3rd party - table games
+6377,Blackjack Evolution 7 SP,S,3rd party - table games
+6378,Blackjack Evolution 7 SP VIP,S,3rd party - table games
